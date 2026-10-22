@@ -1,0 +1,1001 @@
+survey_id,survey_date,state,district,survey_type,land_use,terrain_type,area_hectares,elevation_m,slope_degrees,gps_accuracy_cm,boundary_points,survey_duration_hours,estimated_cost_myr,quality_status
+LS0001,2024-04-05,Selangor,Petaling,Engineering,Commercial,Flat,2.8,0,1.6,5.0,6,6.9,1888.81,Passed
+LS0002,2026-04-05,Perak,Kinta,Cadastral,Infrastructure,Rolling,19.69,74.5,7.8,1.8,14,14.8,4305.58,Passed
+LS0003,2026-01-17,Sarawak,Miri,Topographic,Commercial,Rolling,11.49,123.2,9.3,1.2,16,12.0,3827.43,Passed
+LS0004,2024-08-21,Selangor,Hulu Langat,Construction Setting Out,Residential,Urban,6.69,12.3,6.0,4.8,10,9.8,2722.31,Passed
+LS0005,2025-11-30,Selangor,Klang,Cadastral,Industrial,Urban,27.13,29.9,2.1,2.5,13,15.4,4975.19,Passed
+LS0006,2026-03-05,Selangor,Petaling,Topographic,Infrastructure,Hilly,69.54,339.3,26.5,7.4,20,31.2,9959.82,Review Required
+LS0007,2026-06-24,Perak,Larut Matang,Engineering,Industrial,Urban,26.17,136.2,5.7,4.9,17,13.9,4704.33,Passed
+LS0008,2024-05-21,Kuala Lumpur,Kuala Lumpur,Topographic,Commercial,Flat,8.98,30.9,0,2.8,17,9.2,3312.09,Passed
+LS0009,2024-09-14,Selangor,Klang,Cadastral,Commercial,Coastal,7.59,0,3.8,1.0,17,10.4,3264.0,Passed
+LS0010,2026-09-03,Penang,Seberang Perai Tengah,Cadastral,Forest,Hilly,84.17,250.1,25.0,4.3,25,34.7,11226.13,Passed
+LS0011,2025-07-06,Kedah,Langkawi,Topographic,Infrastructure,Urban,86.79,33.6,5.7,3.8,22,31.4,10753.18,Passed
+LS0012,2026-08-27,Penang,Timur Laut,Construction Setting Out,Residential,Hilly,1.48,387.1,19.3,6.6,11,6.7,2294.86,Review Required
+LS0013,2026-09-14,Selangor,Petaling,Cadastral,Infrastructure,Coastal,72.99,36.7,5.4,3.3,22,29.4,9741.22,Passed
+LS0014,2025-07-21,Perak,Kinta,Construction Setting Out,Forest,Coastal,62.09,24.0,0,1.3,19,22.9,7750.69,Passed
+LS0015,2024-08-07,Perak,Larut Matang,Subdivision,Forest,Flat,6.53,48.6,2.7,2.3,20,8.7,3081.35,Passed
+LS0016,2025-02-24,Johor,Batu Pahat,As-Built,Infrastructure,Coastal,45.43,0,4.2,1.6,13,20.7,6585.28,Passed
+LS0017,2025-03-08,Penang,Timur Laut,Subdivision,Residential,Hilly,0.87,247.7,24.3,3.2,10,7.6,2231.99,Passed
+LS0018,2026-05-19,Kedah,Kota Setar,Cadastral,Industrial,Rolling,76.95,97.5,10.8,3.8,14,32.0,10260.45,Passed
+LS0019,2025-04-10,Johor,Batu Pahat,Construction Setting Out,Commercial,Rolling,10.4,97.9,11.5,0.7,17,10.4,3508.43,Passed
+LS0020,2026-02-04,Sarawak,Miri,Subdivision,Infrastructure,Hilly,63.22,311.9,23.1,3.7,14,27.5,8697.62,Passed
+LS0021,2026-06-01,Penang,Timur Laut,Construction Setting Out,Infrastructure,Flat,87.42,42.7,1.0,3.1,21,30.5,10303.32,Passed
+LS0022,2025-11-16,Sarawak,Sibu,As-Built,Commercial,Flat,7.01,48.6,3.2,3.9,21,9.5,3118.23,Passed
+LS0023,2025-07-30,Sabah,Kota Kinabalu,Construction Setting Out,Commercial,Flat,8.11,74.0,1.2,4.3,7,5.6,2139.08,Passed
+LS0024,2025-12-21,Selangor,Hulu Langat,As-Built,Agricultural,Rolling,13.45,120.7,9.3,1.9,14,10.0,3486.4,Passed
+LS0025,2024-10-15,Penang,Seberang Perai Tengah,As-Built,Agricultural,Hilly,88.59,353.5,29.9,4.0,19,37.0,11525.96,Review Required
+LS0026,2024-10-10,Perak,Kinta,Topographic,Forest,Coastal,60.62,48.4,2.7,5.0,13,21.9,7472.97,Passed
+LS0027,2025-12-08,Penang,Timur Laut,Topographic,Forest,Rolling,93.1,142.1,11.7,4.1,17,32.8,11190.22,Passed
+LS0028,2024-09-12,Penang,Seberang Perai Tengah,As-Built,Infrastructure,Urban,14.92,76.6,5.8,5.0,7,12.5,3537.17,Passed
+LS0029,2026-06-21,Selangor,Hulu Langat,As-Built,Industrial,Rolling,92.54,30.2,10.0,1.8,22,37.6,12160.99,Passed
+LS0030,2025-04-26,Penang,Timur Laut,Engineering,Industrial,Flat,76.41,0,5.6,2.0,17,28.8,9386.71,Passed
+LS0031,2024-03-12,Perak,Manjung,Construction Setting Out,Agricultural,Urban,29.69,30.9,4.6,0.8,14,15.2,4908.42,Passed
+LS0032,2024-09-28,Sabah,Kota Kinabalu,Construction Setting Out,Forest,Hilly,93.23,291.3,18.1,3.3,25,35.2,11902.67,Passed
+LS0033,2024-01-02,Selangor,Klang,Engineering,Forest,Hilly,74.92,349.2,17.0,3.3,20,29.5,9817.65,Passed
+LS0034,2024-11-30,Perak,Manjung,Cadastral,Forest,Rolling,87.55,73.9,6.8,1.3,25,34.0,11323.86,Passed
+LS0035,2024-11-07,Kedah,Kulim,Topographic,Industrial,Hilly,63.5,350.0,21.4,3.5,22,27.9,9155.99,Passed
+LS0036,2026-01-23,Perak,Kinta,As-Built,Infrastructure,Rolling,62.54,118.3,6.8,1.7,27,28.8,9492.61,Passed
+LS0037,2024-01-26,Selangor,Petaling,Subdivision,Forest,Flat,59.21,92.8,8.2,1.8,21,24.2,8005.47,Passed
+LS0038,2025-11-02,Perak,Larut Matang,As-Built,Residential,Urban,5.55,24.9,7.0,4.1,16,9.5,2890.19,Passed
+LS0039,2024-05-16,Penang,Barat Daya,Cadastral,Industrial,Urban,21.57,4.1,5.5,2.9,14,15.6,4578.48,Passed
+LS0040,2025-05-01,Sabah,Penampang,Construction Setting Out,Infrastructure,Urban,77.61,31.8,6.5,5.1,29,33.9,11046.58,Review Required
+LS0041,2024-12-09,Kedah,Kulim,Subdivision,Agricultural,Coastal,72.99,1.4,0,2.0,16,28.7,9270.88,Passed
+LS0042,2025-03-06,Selangor,Hulu Langat,Topographic,Industrial,Flat,66.23,32.7,1.7,2.7,27,27.4,9087.39,Passed
+LS0043,2026-03-30,Penang,Seberang Perai Tengah,As-Built,Industrial,Urban,45.84,44.6,6.4,2.6,23,22.1,7333.63,Passed
+LS0044,2025-09-29,Perak,Larut Matang,Engineering,Industrial,Rolling,46.65,143.5,6.6,4.5,15,22.5,7259.62,Passed
+LS0045,2024-08-04,Penang,Barat Daya,As-Built,Infrastructure,Urban,63.32,73.6,6.7,4.9,18,23.8,8080.08,Passed
+LS0046,2026-09-01,Sabah,Penampang,Construction Setting Out,Agricultural,Rolling,71.69,86.8,11.1,1.1,14,29.4,9208.81,Passed
+LS0047,2024-04-27,Perak,Larut Matang,Subdivision,Residential,Hilly,9.09,302.7,26.9,2.8,9,10.2,3036.2,Passed
+LS0048,2024-01-27,Perak,Manjung,Engineering,Agricultural,Rolling,16.77,73.7,6.1,1.2,11,14.1,3998.08,Passed
+LS0049,2024-05-03,Sarawak,Sibu,Subdivision,Commercial,Rolling,1.05,64.2,8.5,1.2,13,9.7,2784.76,Passed
+LS0050,2025-10-12,Penang,Barat Daya,Construction Setting Out,Forest,Rolling,35.83,108.8,7.3,4.8,24,17.4,6166.18,Passed
+LS0051,2025-08-29,Johor,Batu Pahat,Subdivision,Infrastructure,Rolling,91.75,173.1,9.3,3.3,32,36.5,12250.29,Passed
+LS0052,2024-11-28,Sabah,Kota Kinabalu,Cadastral,Agricultural,Urban,83.87,94.1,4.1,3.6,27,32.2,10831.26,Passed
+LS0053,2026-01-07,Kuala Lumpur,Kuala Lumpur,Engineering,Agricultural,Flat,27.29,4.0,0,3.4,23,18.3,5591.93,Passed
+LS0054,2024-11-09,Kuala Lumpur,Kuala Lumpur,Topographic,Forest,Hilly,45.75,272.9,24.2,2.8,19,21.8,7129.21,Passed
+LS0055,2024-07-16,Kuala Lumpur,Kuala Lumpur,Engineering,Industrial,Hilly,94.68,299.9,22.3,4.9,26,36.6,11917.82,Passed
+LS0056,2026-05-02,Selangor,Petaling,Subdivision,Commercial,Coastal,2.42,0,2.8,3.5,20,9.4,3162.84,Passed
+LS0057,2026-06-08,Kedah,Kulim,Topographic,Agricultural,Flat,2.33,39.0,0,5.4,13,8.3,2389.87,Review Required
+LS0058,2025-05-18,Selangor,Petaling,As-Built,Agricultural,Urban,45.12,63.2,2.2,0.9,25,19.7,6655.68,Passed
+LS0059,2026-07-19,Penang,Barat Daya,As-Built,Agricultural,Flat,9.01,89.7,2.0,2.7,12,10.7,3184.07,Passed
+LS0060,2024-03-24,Kedah,Kota Setar,Construction Setting Out,Agricultural,Urban,54.45,87.8,11.1,1.2,17,24.5,7759.26,Passed
+LS0061,2026-05-30,Perak,Manjung,Cadastral,Commercial,Flat,0.18,59.4,0,2.1,11,5.4,1761.65,Passed
+LS0062,2026-04-26,Selangor,Petaling,Engineering,Forest,Hilly,56.44,288.1,25.7,3.3,19,27.1,8645.34,Passed
+LS0063,2025-05-27,Selangor,Klang,Engineering,Infrastructure,Flat,71.4,32.8,0,1.3,23,29.4,9840.87,Passed
+LS0064,2025-08-12,Kuala Lumpur,Kuala Lumpur,As-Built,Residential,Rolling,10.69,62.6,9.6,0.8,12,12.9,3843.86,Passed
+LS0065,2024-04-03,Kedah,Kulim,Topographic,Industrial,Hilly,49.78,320.0,22.7,7.5,24,25.7,8099.95,Review Required
+LS0066,2025-04-10,Sabah,Kota Kinabalu,Engineering,Forest,Rolling,10.83,140.5,11.6,3.1,17,13.3,3969.4,Passed
+LS0067,2025-01-05,Sabah,Sandakan,Cadastral,Industrial,Flat,82.3,43.5,2.1,4.9,29,32.3,10725.13,Passed
+LS0068,2025-09-15,Kuala Lumpur,Kuala Lumpur,Cadastral,Commercial,Hilly,3.31,331.2,26.7,6.9,19,9.7,3220.78,Review Required
+LS0069,2026-08-13,Johor,Kulai,Cadastral,Infrastructure,Rolling,39.35,176.3,10.9,1.2,12,19.5,5995.79,Passed
+LS0070,2026-02-03,Kedah,Kota Setar,Engineering,Industrial,Rolling,79.46,106.8,12.2,3.3,27,31.1,10484.57,Passed
+LS0071,2025-11-06,Selangor,Hulu Langat,Construction Setting Out,Agricultural,Flat,88.82,41.8,0,2.1,25,35.3,11582.91,Passed
+LS0072,2025-01-27,Johor,Johor Bahru,Construction Setting Out,Agricultural,Rolling,32.25,76.0,10.2,5.2,14,19.4,5777.02,Review Required
+LS0073,2025-05-29,Sarawak,Sibu,Subdivision,Industrial,Flat,67.29,13.0,3.1,3.9,17,26.5,8577.49,Passed
+LS0074,2024-09-28,Sabah,Penampang,Construction Setting Out,Residential,Urban,6.38,70.0,0,2.7,8,5.5,2144.07,Passed
+LS0075,2024-03-11,Sarawak,Kuching,Engineering,Forest,Hilly,81.78,330.9,23.1,6.1,30,36.9,11525.62,Review Required
+LS0076,2024-01-30,Kedah,Kota Setar,Subdivision,Residential,Urban,5.29,83.8,7.5,4.9,18,8.2,2724.97,Passed
+LS0077,2026-06-10,Sabah,Penampang,Engineering,Agricultural,Coastal,36.24,42.1,5.3,3.4,14,16.0,5251.67,Passed
+LS0078,2024-06-10,Perak,Kinta,As-Built,Commercial,Rolling,2.9,80.4,7.8,3.9,18,11.2,3330.84,Passed
+LS0079,2024-04-19,Kuala Lumpur,Kuala Lumpur,As-Built,Agricultural,Urban,61.06,67.2,2.0,4.8,18,27.4,8840.85,Passed
+LS0080,2026-03-07,Sarawak,Sibu,As-Built,Agricultural,Hilly,94.31,402.8,22.7,5.9,25,35.2,11909.05,Review Required
+LS0081,2024-09-13,Penang,Seberang Perai Tengah,Subdivision,Industrial,Urban,79.29,20.3,8.3,1.8,26,30.6,10189.23,Passed
+LS0082,2026-02-04,Johor,Batu Pahat,Subdivision,Forest,Hilly,4.71,301.1,25.2,4.5,8,7.9,2323.36,Review Required
+LS0083,2026-06-10,Johor,Batu Pahat,As-Built,Agricultural,Flat,50.9,10.9,6.8,1.9,26,26.3,8243.36,Passed
+LS0084,2025-01-09,Selangor,Petaling,Cadastral,Commercial,Rolling,9.09,162.0,10.7,3.9,17,13.4,4016.62,Passed
+LS0085,2024-01-26,Sarawak,Sibu,As-Built,Residential,Flat,5.54,0,0,3.5,15,6.6,2317.21,Passed
+LS0086,2024-02-08,Sabah,Penampang,Topographic,Forest,Urban,6.94,0,6.9,2.2,17,8.2,2660.62,Passed
+LS0087,2026-06-25,Kuala Lumpur,Kuala Lumpur,Topographic,Infrastructure,Flat,13.75,60.0,0,4.3,18,11.8,3917.14,Passed
+LS0088,2024-04-11,Selangor,Klang,As-Built,Industrial,Urban,89.27,107.7,3.1,1.7,30,37.2,12223.52,Passed
+LS0089,2025-10-16,Sabah,Sandakan,Subdivision,Agricultural,Rolling,6.69,200.7,8.7,5.3,18,8.3,2767.32,Review Required
+LS0090,2024-08-26,Penang,Barat Daya,Engineering,Commercial,Flat,11.87,21.9,2.5,4.7,11,10.4,3389.76,Passed
+LS0091,2024-05-14,Johor,Johor Bahru,As-Built,Residential,Coastal,3.44,0,11.8,3.3,9,6.3,2234.56,Passed
+LS0092,2025-04-04,Sabah,Penampang,Topographic,Infrastructure,Coastal,31.43,18.2,3.5,4.3,24,15.8,5326.48,Passed
+LS0093,2025-05-05,Selangor,Hulu Langat,Topographic,Infrastructure,Rolling,5.08,41.2,11.2,3.2,18,10.9,3108.32,Passed
+LS0094,2025-08-22,Sarawak,Sibu,Construction Setting Out,Forest,Hilly,86.51,316.4,26.1,5.6,18,32.8,10817.15,Review Required
+LS0095,2026-02-26,Sabah,Sandakan,As-Built,Infrastructure,Rolling,28.72,108.7,6.8,4.5,11,16.9,5235.11,Passed
+LS0096,2026-09-03,Perak,Kinta,Topographic,Industrial,Rolling,32.86,120.5,7.0,1.2,21,17.1,5607.58,Passed
+LS0097,2024-12-03,Kuala Lumpur,Kuala Lumpur,Cadastral,Residential,Flat,5.27,11.2,1.9,1.3,5,7.5,2283.47,Passed
+LS0098,2024-06-07,Sarawak,Sibu,Subdivision,Industrial,Rolling,82.6,19.5,8.6,3.6,26,31.0,10529.17,Passed
+LS0099,2026-04-18,Kuala Lumpur,Kuala Lumpur,Cadastral,Agricultural,Flat,80.47,88.9,0,3.5,28,33.5,11153.06,Passed
+LS0100,2024-05-25,Kedah,Langkawi,Engineering,Forest,Flat,72.67,29.6,4.5,1.6,18,28.7,9387.95,Passed
+LS0101,2024-03-27,Penang,Timur Laut,As-Built,Commercial,Flat,4.61,50.9,0.3,2.2,14,9.6,2934.66,Passed
+LS0102,2025-06-08,Johor,Johor Bahru,As-Built,Residential,Flat,8.14,96.1,1.4,3.0,19,9.7,3120.61,Passed
+LS0103,2024-07-28,Sabah,Penampang,Engineering,Forest,Rolling,64.78,114.4,5.6,0.9,25,29.9,9364.17,Passed
+LS0104,2025-07-26,Perak,Larut Matang,Engineering,Agricultural,Coastal,31.84,10.8,8.0,1.5,20,17.9,5670.82,Passed
+LS0105,2025-03-03,Sabah,Penampang,Subdivision,Residential,Flat,5.32,48.5,0.8,2.2,17,9.3,3061.74,Passed
+LS0106,2025-03-22,Selangor,Klang,Engineering,Commercial,Rolling,9.65,65.3,5.8,5.1,7,8.7,2571.15,Review Required
+LS0107,2026-03-05,Sarawak,Miri,Construction Setting Out,Agricultural,Rolling,71.11,169.9,10.9,1.1,17,28.7,9207.68,Passed
+LS0108,2025-05-20,Sabah,Penampang,Subdivision,Commercial,Coastal,2.95,26.5,4.2,3.6,6,5.2,1877.04,Passed
+LS0109,2025-10-08,Kuala Lumpur,Kuala Lumpur,As-Built,Forest,Hilly,60.72,260.7,20.7,5.7,16,26.2,8386.81,Review Required
+LS0110,2026-05-25,Kedah,Kota Setar,Engineering,Infrastructure,Hilly,7.97,312.3,24.2,4.5,14,9.7,3212.94,Passed
+LS0111,2026-09-07,Sarawak,Kuching,As-Built,Forest,Rolling,85.21,129.8,4.8,3.8,26,33.8,11154.37,Passed
+LS0112,2025-01-07,Kuala Lumpur,Kuala Lumpur,Engineering,Forest,Flat,8.93,37.1,1.5,4.1,19,10.5,3459.48,Passed
+LS0113,2024-09-15,Kedah,Langkawi,Engineering,Forest,Rolling,57.2,61.0,11.1,1.0,15,24.6,7878.03,Passed
+LS0114,2024-03-27,Johor,Batu Pahat,As-Built,Forest,Rolling,14.29,184.3,5.4,4.1,18,10.3,3655.21,Passed
+LS0115,2025-06-04,Sarawak,Miri,Engineering,Commercial,Hilly,8.09,259.6,27.3,6.0,21,11.3,3660.46,Review Required
+LS0116,2024-04-13,Penang,Seberang Perai Tengah,Topographic,Commercial,Rolling,4.2,87.3,10.2,5.5,8,6.0,2170.17,Review Required
+LS0117,2025-01-08,Penang,Seberang Perai Tengah,As-Built,Commercial,Hilly,7.23,328.2,26.1,6.0,10,12.2,3188.14,Review Required
+LS0118,2025-11-25,Perak,Larut Matang,As-Built,Agricultural,Urban,71.72,30.0,4.5,1.8,29,32.0,10227.85,Passed
+LS0119,2025-05-07,Kuala Lumpur,Kuala Lumpur,Engineering,Industrial,Rolling,48.27,120.2,8.4,1.7,14,23.2,7078.21,Passed
+LS0120,2026-07-21,Selangor,Petaling,As-Built,Residential,Coastal,3.53,0,3.2,5.0,8,8.9,2377.45,Passed
+LS0121,2024-04-11,Kuala Lumpur,Kuala Lumpur,Cadastral,Industrial,Urban,6.01,54.7,1.8,5.5,15,7.6,2555.89,Review Required
+LS0122,2024-08-08,Johor,Johor Bahru,Engineering,Industrial,Flat,66.43,86.9,5.0,2.9,13,27.9,8665.16,Passed
+LS0123,2025-05-26,Sarawak,Sibu,Engineering,Commercial,Flat,3.72,55.8,5.0,4.5,18,7.0,2651.92,Passed
+LS0124,2025-06-20,Penang,Barat Daya,As-Built,Commercial,Hilly,8.66,311.9,25.0,4.4,18,11.2,3569.01,Passed
+LS0125,2024-09-16,Selangor,Klang,As-Built,Infrastructure,Urban,74.92,54.7,3.4,4.9,15,29.1,9692.56,Passed
+LS0126,2024-12-12,Penang,Seberang Perai Tengah,Cadastral,Agricultural,Rolling,23.67,96.3,9.2,3.5,17,13.2,4411.06,Passed
+LS0127,2026-03-21,Johor,Johor Bahru,Subdivision,Industrial,Urban,93.2,58.0,2.1,1.3,31,33.8,11530.04,Passed
+LS0128,2024-02-18,Penang,Seberang Perai Tengah,Engineering,Infrastructure,Rolling,38.43,73.7,11.4,0.9,15,18.0,6058.92,Passed
+LS0129,2026-08-04,Sabah,Sandakan,Engineering,Industrial,Flat,84.61,0,1.7,2.6,21,31.9,10616.13,Passed
+LS0130,2024-10-29,Kedah,Kulim,Subdivision,Industrial,Urban,8.42,15.9,0,3.3,15,7.4,2623.81,Passed
+LS0131,2025-10-16,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Commercial,Hilly,8.32,318.3,24.5,6.9,16,12.8,3693.42,Review Required
+LS0132,2026-03-08,Selangor,Klang,Construction Setting Out,Agricultural,Hilly,49.23,289.3,25.0,2.8,25,23.0,7439.55,Passed
+LS0133,2025-02-11,Sabah,Penampang,As-Built,Residential,Rolling,7.32,33.0,6.8,2.5,7,8.9,2679.72,Passed
+LS0134,2024-08-07,Kedah,Langkawi,Cadastral,Residential,Flat,8.87,45.2,0,3.4,13,10.6,3321.16,Passed
+LS0135,2026-09-17,Kedah,Kulim,Construction Setting Out,Commercial,Hilly,1.6,279.3,27.0,7.0,18,13.5,3754.91,Review Required
+LS0136,2024-05-04,Sabah,Kota Kinabalu,As-Built,Infrastructure,Coastal,28.29,27.5,2.5,4.1,13,16.4,5131.68,Passed
+LS0137,2024-11-12,Johor,Batu Pahat,Construction Setting Out,Residential,Flat,4.43,27.8,0,5.4,8,7.7,2191.05,Review Required
+LS0138,2026-03-09,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Infrastructure,Rolling,7.93,101.3,14.2,2.9,21,11.1,3699.74,Passed
+LS0139,2026-07-05,Johor,Batu Pahat,Cadastral,Residential,Rolling,6.29,129.6,9.4,5.2,11,8.4,2836.54,Review Required
+LS0140,2024-06-24,Selangor,Klang,Subdivision,Infrastructure,Flat,26.8,10.8,0,1.1,12,14.5,4714.36,Passed
+LS0141,2025-03-02,Sabah,Sandakan,As-Built,Residential,Urban,9.93,56.9,4.9,3.8,13,10.8,3427.84,Passed
+LS0142,2024-03-02,Penang,Timur Laut,Subdivision,Infrastructure,Rolling,28.23,99.2,13.3,4.6,20,16.3,5160.35,Passed
+LS0143,2025-01-14,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Commercial,Rolling,4.18,164.6,13.7,2.2,15,12.1,3236.37,Passed
+LS0144,2024-06-12,Sabah,Penampang,Cadastral,Agricultural,Flat,43.26,53.7,2.6,5.2,23,19.6,6815.04,Review Required
+LS0145,2026-09-16,Sabah,Kota Kinabalu,Topographic,Industrial,Flat,94.62,59.9,0,3.1,19,36.4,11808.22,Passed
+LS0146,2025-03-17,Perak,Kinta,Cadastral,Residential,Hilly,3.48,271.3,20.3,5.9,13,10.1,3059.53,Review Required
+LS0147,2026-02-21,Kedah,Langkawi,Construction Setting Out,Agricultural,Coastal,5.25,22.2,6.7,2.4,13,6.8,2386.2,Passed
+LS0148,2024-05-27,Kedah,Kota Setar,As-Built,Forest,Urban,58.44,66.4,4.9,2.5,22,25.4,8293.72,Passed
+LS0149,2024-11-22,Sarawak,Kuching,Cadastral,Residential,Rolling,1.77,144.4,8.3,2.9,20,7.5,2764.39,Passed
+LS0150,2024-12-05,Sarawak,Sibu,Subdivision,Agricultural,Urban,56.81,53.1,0.4,3.1,21,23.9,7776.17,Passed
+LS0151,2026-09-22,Selangor,Klang,As-Built,Agricultural,Urban,75.89,2.2,3.3,0.8,29,29.9,10199.12,Passed
+LS0152,2025-08-09,Perak,Larut Matang,As-Built,Industrial,Coastal,17.03,0,0.1,4.7,10,12.6,3753.14,Passed
+LS0153,2024-03-04,Selangor,Klang,Construction Setting Out,Agricultural,Flat,40.37,57.3,0.3,3.1,24,21.8,7080.87,Passed
+LS0154,2024-12-28,Johor,Kulai,As-Built,Agricultural,Rolling,94.82,114.6,7.1,5.3,31,39.2,12653.37,Review Required
+LS0155,2025-05-15,Kedah,Kulim,Topographic,Commercial,Hilly,3.46,389.6,22.9,7.4,13,11.2,3199.42,Review Required
+LS0156,2026-04-03,Kuala Lumpur,Kuala Lumpur,Subdivision,Agricultural,Rolling,28.05,90.5,6.6,5.0,20,18.1,5838.44,Passed
+LS0157,2025-07-29,Kedah,Langkawi,Subdivision,Residential,Flat,4.25,54.5,0,3.0,10,9.0,2561.95,Passed
+LS0158,2026-01-04,Kedah,Kulim,As-Built,Forest,Flat,56.16,97.0,2.2,3.2,19,21.5,7399.54,Passed
+LS0159,2026-09-14,Selangor,Hulu Langat,Topographic,Residential,Hilly,11.58,307.2,26.7,5.8,20,14.0,4086.14,Review Required
+LS0160,2026-06-22,Sabah,Kota Kinabalu,Cadastral,Residential,Flat,7.88,102.0,2.5,4.8,6,10.1,2751.49,Passed
+LS0161,2024-04-19,Penang,Barat Daya,Construction Setting Out,Industrial,Urban,18.51,0,4.0,2.1,7,8.9,3165.1,Passed
+LS0162,2024-06-15,Kedah,Langkawi,Subdivision,Infrastructure,Rolling,50.29,98.0,11.2,3.1,19,21.5,7032.74,Passed
+LS0163,2026-07-07,Kuala Lumpur,Kuala Lumpur,Subdivision,Commercial,Hilly,0.32,335.0,23.7,5.9,10,7.3,2316.4,Review Required
+LS0164,2025-04-02,Sarawak,Miri,Cadastral,Industrial,Rolling,63.91,127.7,10.7,2.3,20,24.5,8300.15,Passed
+LS0165,2025-12-03,Sabah,Sandakan,Subdivision,Infrastructure,Rolling,2.07,65.8,7.4,1.0,7,6.9,1941.33,Passed
+LS0166,2025-03-01,Kedah,Langkawi,Subdivision,Agricultural,Hilly,35.55,396.4,26.4,5.0,23,22.5,6923.9,Review Required
+LS0167,2024-03-20,Kuala Lumpur,Kuala Lumpur,Subdivision,Commercial,Coastal,9.18,0,1.3,4.5,21,10.5,3571.57,Passed
+LS0168,2025-05-15,Penang,Timur Laut,As-Built,Commercial,Urban,6.94,80.2,5.6,3.2,7,9.2,2794.25,Passed
+LS0169,2026-04-16,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Commercial,Urban,6.23,58.2,3.0,2.9,13,9.9,2957.54,Passed
+LS0170,2024-10-20,Perak,Manjung,Cadastral,Industrial,Hilly,33.39,353.8,33.9,7.2,10,21.7,6215.71,Review Required
+LS0171,2025-11-08,Johor,Kulai,Subdivision,Forest,Coastal,61.71,60.8,0,2.5,24,25.2,8584.91,Passed
+LS0172,2024-11-01,Johor,Batu Pahat,Engineering,Residential,Hilly,2.26,300.0,21.4,6.2,11,11.0,3074.39,Review Required
+LS0173,2025-09-21,Sarawak,Kuching,Topographic,Commercial,Rolling,5.61,128.7,11.1,4.9,7,6.1,2142.2,Passed
+LS0174,2024-08-10,Perak,Kinta,Cadastral,Infrastructure,Flat,4.16,13.5,0,0.9,5,6.0,1828.46,Passed
+LS0175,2025-11-07,Johor,Kulai,Engineering,Commercial,Rolling,9.82,79.5,9.7,3.6,15,9.6,3308.94,Passed
+LS0176,2024-12-18,Perak,Larut Matang,Engineering,Residential,Rolling,6.75,78.9,5.9,1.5,17,10.2,3023.25,Passed
+LS0177,2026-05-28,Sarawak,Sibu,Engineering,Forest,Coastal,40.13,35.4,4.7,4.3,24,19.0,6348.6,Passed
+LS0178,2026-08-02,Johor,Batu Pahat,Cadastral,Infrastructure,Urban,39.79,76.5,0.8,2.6,17,17.1,5927.36,Passed
+LS0179,2026-01-11,Sabah,Sandakan,Subdivision,Commercial,Flat,0.76,78.3,0,0.9,6,4.2,1595.6,Passed
+LS0180,2026-07-25,Perak,Kinta,Engineering,Agricultural,Rolling,90.96,117.9,17.0,5.3,19,36.3,11735.55,Review Required
+LS0181,2025-05-24,Perak,Manjung,Topographic,Infrastructure,Rolling,31.23,148.4,9.3,3.8,17,16.0,5310.79,Passed
+LS0182,2024-05-29,Selangor,Petaling,Subdivision,Industrial,Urban,72.59,76.3,3.1,2.2,15,28.0,9087.29,Passed
+LS0183,2025-12-02,Kedah,Kulim,As-Built,Infrastructure,Hilly,68.68,332.2,24.4,3.8,20,29.8,9589.4,Passed
+LS0184,2024-07-07,Kedah,Langkawi,Construction Setting Out,Forest,Coastal,61.32,9.3,1.2,4.5,17,22.9,7864.56,Passed
+LS0185,2025-06-01,Penang,Barat Daya,Cadastral,Forest,Rolling,5.56,110.8,11.6,3.7,6,9.4,2458.18,Passed
+LS0186,2024-10-08,Sabah,Sandakan,Subdivision,Forest,Flat,88.79,18.2,5.8,0.8,29,32.5,11171.45,Passed
+LS0187,2025-06-23,Kedah,Kulim,Subdivision,Forest,Flat,41.47,36.9,3.8,5.1,25,19.0,6423.51,Review Required
+LS0188,2024-03-23,Sabah,Sandakan,Construction Setting Out,Residential,Flat,4.57,70.1,0,5.5,11,6.6,2386.16,Review Required
+LS0189,2024-12-05,Penang,Seberang Perai Tengah,Construction Setting Out,Industrial,Flat,52.95,46.7,2.4,1.5,26,25.7,8358.36,Passed
+LS0190,2024-10-14,Selangor,Klang,Cadastral,Commercial,Urban,2.66,1.1,8.2,3.0,5,9.1,2518.99,Passed
+LS0191,2025-07-31,Penang,Timur Laut,Engineering,Residential,Flat,11.54,14.6,0,4.1,17,12.8,3806.39,Passed
+LS0192,2024-02-24,Sarawak,Kuching,As-Built,Agricultural,Hilly,37.08,248.2,24.7,6.0,11,19.5,6196.59,Review Required
+LS0193,2025-04-06,Sarawak,Miri,Cadastral,Agricultural,Flat,57.89,14.1,0,5.4,22,22.1,7623.21,Review Required
+LS0194,2024-03-25,Perak,Manjung,Construction Setting Out,Industrial,Rolling,18.46,92.4,7.5,4.4,15,14.5,4513.06,Passed
+LS0195,2024-04-14,Johor,Johor Bahru,Subdivision,Commercial,Rolling,8.91,125.2,9.4,0.7,14,10.1,3285.26,Passed
+LS0196,2026-06-03,Selangor,Hulu Langat,Construction Setting Out,Infrastructure,Flat,53.15,49.4,1.4,2.4,13,22.2,7359.08,Passed
+LS0197,2024-05-22,Penang,Barat Daya,Construction Setting Out,Residential,Flat,8.74,4.9,0,1.9,21,8.9,3127.87,Passed
+LS0198,2025-10-02,Kedah,Kulim,Topographic,Residential,Flat,2.13,74.2,1.6,4.5,15,6.6,2179.1,Passed
+LS0199,2026-04-23,Perak,Larut Matang,Topographic,Agricultural,Rolling,1.64,151.0,5.4,2.5,14,7.6,2385.13,Passed
+LS0200,2026-09-17,Johor,Kulai,As-Built,Forest,Rolling,19.88,193.2,7.0,5.3,15,14.6,4559.12,Review Required
+LS0201,2026-09-02,Perak,Larut Matang,Engineering,Industrial,Rolling,35.31,100.3,11.8,5.5,14,19.0,5956.06,Review Required
+LS0202,2024-11-06,Kuala Lumpur,Kuala Lumpur,Topographic,Industrial,Urban,75.98,43.4,4.6,4.8,27,31.7,10265.33,Passed
+LS0203,2026-06-09,Kedah,Langkawi,Subdivision,Industrial,Hilly,75.17,358.0,33.2,5.0,26,33.8,10901.54,Review Required
+LS0204,2025-10-24,Sarawak,Sibu,Engineering,Forest,Rolling,85.18,98.5,5.8,1.1,23,33.7,10980.06,Passed
+LS0205,2025-06-06,Penang,Seberang Perai Tengah,Subdivision,Forest,Hilly,61.79,303.5,27.6,6.5,15,24.9,8075.18,Review Required
+LS0206,2026-07-31,Perak,Kinta,Construction Setting Out,Industrial,Rolling,73.6,88.2,7.0,2.4,14,28.2,9164.37,Passed
+LS0207,2025-12-14,Selangor,Hulu Langat,Subdivision,Commercial,Urban,4.28,106.1,1.1,3.2,15,8.3,2660.53,Passed
+LS0208,2025-06-12,Sabah,Kota Kinabalu,Cadastral,Forest,Flat,11.82,3.9,4.5,4.0,10,12.2,3659.64,Passed
+LS0209,2026-06-23,Johor,Johor Bahru,Construction Setting Out,Industrial,Rolling,22.79,122.6,8.4,3.8,20,14.7,4901.64,Passed
+LS0210,2025-07-03,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Residential,Hilly,8.5,366.2,26.4,6.6,7,11.4,3299.8,Review Required
+LS0211,2024-12-22,Sabah,Penampang,Construction Setting Out,Residential,Rolling,3.26,77.4,12.4,3.8,16,10.1,3042.22,Passed
+LS0212,2024-07-06,Kuala Lumpur,Kuala Lumpur,Subdivision,Forest,Hilly,76.26,287.1,28.5,5.9,24,31.2,10155.07,Review Required
+LS0213,2024-05-23,Johor,Johor Bahru,Construction Setting Out,Infrastructure,Rolling,13.96,125.0,8.6,3.8,10,11.3,3482.68,Passed
+LS0214,2025-05-21,Sabah,Penampang,As-Built,Residential,Urban,10.41,43.0,7.3,1.6,17,13.4,3952.4,Passed
+LS0215,2024-06-21,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Industrial,Rolling,16.72,85.1,5.1,1.8,7,9.8,3244.28,Passed
+LS0216,2024-08-11,Kuala Lumpur,Kuala Lumpur,Cadastral,Infrastructure,Rolling,11.74,45.6,10.9,2.5,6,11.3,3242.13,Passed
+LS0217,2026-03-05,Selangor,Petaling,Subdivision,Commercial,Coastal,3.68,7.8,6.3,2.4,6,6.9,2310.64,Passed
+LS0218,2026-04-04,Perak,Kinta,As-Built,Forest,Urban,33.96,7.0,3.0,1.5,12,17.8,5718.73,Passed
+LS0219,2024-04-07,Sabah,Kota Kinabalu,As-Built,Infrastructure,Rolling,16.83,106.2,12.5,3.4,22,16.8,5080.58,Passed
+LS0220,2025-05-16,Sarawak,Kuching,Engineering,Forest,Urban,12.93,35.2,5.5,4.1,12,12.1,3726.05,Passed
+LS0221,2025-04-10,Kedah,Kulim,Construction Setting Out,Industrial,Hilly,8.1,252.4,26.4,4.6,13,12.9,3783.63,Review Required
+LS0222,2026-09-18,Sabah,Penampang,Subdivision,Residential,Hilly,8.81,323.3,20.7,4.4,7,11.9,3244.61,Passed
+LS0223,2024-02-17,Perak,Kinta,Engineering,Agricultural,Rolling,32.75,88.7,6.6,3.0,18,19.4,6135.4,Passed
+LS0224,2026-06-14,Kuala Lumpur,Kuala Lumpur,Topographic,Industrial,Flat,43.91,43.1,5.2,5.5,14,21.7,6717.47,Review Required
+LS0225,2025-03-15,Selangor,Klang,Engineering,Residential,Hilly,4.56,298.0,26.5,4.6,13,12.0,3419.61,Review Required
+LS0226,2024-05-03,Selangor,Hulu Langat,Cadastral,Commercial,Coastal,5.8,26.6,4.4,4.0,4,4.8,1687.03,Passed
+LS0227,2026-02-10,Johor,Johor Bahru,Topographic,Industrial,Rolling,9.4,94.7,10.5,2.5,14,8.9,3088.68,Passed
+LS0228,2025-03-29,Johor,Johor Bahru,As-Built,Residential,Flat,7.38,72.9,3.4,1.7,9,10.6,3095.39,Passed
+LS0229,2024-09-11,Selangor,Klang,Topographic,Residential,Urban,7.14,114.9,0,2.2,9,6.8,2393.73,Passed
+LS0230,2025-10-23,Kedah,Kota Setar,Subdivision,Residential,Coastal,10.2,0,1.6,3.2,21,9.5,3304.6,Passed
+LS0231,2026-05-31,Perak,Larut Matang,Cadastral,Commercial,Rolling,6.07,86.1,6.9,5.4,15,11.7,3242.23,Review Required
+LS0232,2026-08-02,Sarawak,Kuching,Subdivision,Commercial,Rolling,9.19,93.1,14.9,0.8,7,7.5,2373.78,Passed
+LS0233,2025-06-07,Sarawak,Kuching,Subdivision,Forest,Rolling,48.1,137.6,6.0,1.1,14,19.9,6563.66,Passed
+LS0234,2024-02-29,Johor,Johor Bahru,Construction Setting Out,Infrastructure,Rolling,60.62,64.4,12.3,1.0,25,28.2,9191.63,Passed
+LS0235,2025-12-19,Selangor,Petaling,Cadastral,Industrial,Urban,58.56,72.6,8.2,3.9,17,22.8,7794.68,Passed
+LS0236,2026-07-10,Johor,Johor Bahru,Engineering,Infrastructure,Rolling,49.62,85.7,11.0,2.5,19,24.0,7469.26,Passed
+LS0237,2026-05-29,Sabah,Sandakan,Engineering,Infrastructure,Urban,7.0,10.4,3.1,1.1,19,10.1,3082.68,Passed
+LS0238,2024-09-07,Johor,Johor Bahru,Engineering,Residential,Rolling,10.75,94.6,9.3,4.3,5,7.1,2560.17,Passed
+LS0239,2026-07-26,Kuala Lumpur,Kuala Lumpur,Topographic,Commercial,Rolling,11.18,75.3,12.4,5.1,18,10.7,3414.37,Review Required
+LS0240,2024-03-11,Kedah,Kulim,As-Built,Agricultural,Urban,12.22,44.8,3.5,1.8,21,14.3,4502.37,Passed
+LS0241,2025-01-12,Kedah,Langkawi,Engineering,Agricultural,Coastal,9.12,17.0,0.2,2.1,14,10.7,3197.57,Passed
+LS0242,2025-10-13,Kuala Lumpur,Kuala Lumpur,Topographic,Forest,Urban,85.64,28.8,4.1,0.7,29,31.5,10859.0,Passed
+LS0243,2026-09-22,Sabah,Kota Kinabalu,Subdivision,Industrial,Flat,80.81,28.8,1.8,3.2,22,30.7,10451.99,Passed
+LS0244,2025-02-07,Kedah,Kota Setar,Topographic,Infrastructure,Flat,39.83,21.4,4.6,4.3,12,18.2,5968.75,Passed
+LS0245,2024-03-17,Penang,Timur Laut,Topographic,Commercial,Rolling,3.61,45.6,14.1,2.6,14,8.5,2570.9,Passed
+LS0246,2024-11-11,Johor,Batu Pahat,As-Built,Residential,Coastal,1.99,41.7,4.7,2.7,15,10.4,2860.63,Passed
+LS0247,2024-04-03,Kedah,Langkawi,Cadastral,Commercial,Urban,9.72,106.5,2.4,3.6,11,11.0,3216.36,Passed
+LS0248,2025-07-17,Perak,Kinta,Construction Setting Out,Infrastructure,Urban,5.6,116.8,2.3,1.5,16,10.8,3257.58,Passed
+LS0249,2025-10-22,Selangor,Petaling,Topographic,Residential,Rolling,0.29,22.8,14.1,1.3,16,8.2,2583.3,Passed
+LS0250,2024-12-05,Kedah,Kota Setar,Cadastral,Residential,Urban,11.97,102.7,5.4,4.6,7,11.7,3512.98,Passed
+LS0251,2024-08-07,Penang,Timur Laut,Cadastral,Commercial,Urban,11.1,77.9,0,3.1,17,11.4,3478.32,Passed
+LS0252,2024-05-20,Kedah,Kulim,Topographic,Residential,Flat,7.43,11.1,0,3.1,20,7.8,2796.97,Passed
+LS0253,2024-12-18,Perak,Larut Matang,As-Built,Commercial,Hilly,7.62,251.0,26.7,7.4,16,12.2,3691.61,Review Required
+LS0254,2025-01-01,Sabah,Sandakan,Topographic,Residential,Rolling,3.93,183.0,11.2,4.4,5,9.2,2505.73,Passed
+LS0255,2025-08-12,Perak,Manjung,Cadastral,Commercial,Urban,7.93,119.1,3.4,5.1,6,9.4,2933.18,Review Required
+LS0256,2025-08-04,Sabah,Sandakan,Topographic,Commercial,Urban,2.95,107.1,2.0,2.4,4,7.2,2014.57,Passed
+LS0257,2024-12-05,Johor,Kulai,Topographic,Industrial,Hilly,51.96,318.7,25.4,3.0,18,22.5,7402.02,Passed
+LS0258,2026-03-03,Perak,Kinta,Engineering,Forest,Urban,17.68,0,6.0,1.0,10,12.2,3976.45,Passed
+LS0259,2025-03-23,Sabah,Sandakan,Engineering,Forest,Urban,89.54,64.9,2.9,2.1,20,35.7,11588.12,Passed
+LS0260,2025-01-22,Kuala Lumpur,Kuala Lumpur,Topographic,Forest,Hilly,92.06,234.5,22.6,6.5,24,37.7,12224.8,Review Required
+LS0261,2026-04-08,Kedah,Langkawi,Subdivision,Residential,Flat,11.39,33.9,4.8,5.5,6,7.6,2493.67,Review Required
+LS0262,2026-04-21,Perak,Larut Matang,Cadastral,Industrial,Hilly,14.22,284.2,24.9,7.4,11,13.8,4177.47,Review Required
+LS0263,2025-03-05,Sabah,Kota Kinabalu,Engineering,Commercial,Rolling,3.11,121.1,12.1,1.2,4,5.1,1667.41,Passed
+LS0264,2026-05-16,Sarawak,Kuching,Construction Setting Out,Agricultural,Rolling,52.33,133.8,12.8,4.8,18,21.9,7144.84,Passed
+LS0265,2026-07-03,Kedah,Kulim,Engineering,Residential,Flat,1.03,74.8,3.4,4.2,6,5.4,1918.37,Passed
+LS0266,2026-08-05,Penang,Seberang Perai Tengah,Subdivision,Commercial,Rolling,7.35,114.7,9.1,2.3,11,9.0,2837.34,Passed
+LS0267,2024-10-28,Kedah,Langkawi,Engineering,Commercial,Hilly,1.29,337.6,22.0,5.1,5,7.4,2044.22,Review Required
+LS0268,2026-07-05,Kuala Lumpur,Kuala Lumpur,Cadastral,Commercial,Flat,2.17,59.0,1.7,4.8,13,8.9,2632.02,Passed
+LS0269,2024-10-02,Selangor,Klang,Construction Setting Out,Commercial,Hilly,4.55,325.2,23.6,2.9,18,11.3,3238.1,Passed
+LS0270,2026-04-18,Penang,Seberang Perai Tengah,Subdivision,Forest,Flat,10.09,0,0,2.7,12,9.6,3210.1,Passed
+LS0271,2026-03-30,Sarawak,Sibu,Subdivision,Industrial,Urban,54.84,84.4,4.2,2.6,12,22.4,7481.46,Passed
+LS0272,2025-03-21,Johor,Johor Bahru,Construction Setting Out,Commercial,Flat,11.4,66.0,3.0,1.6,6,8.7,2965.61,Passed
+LS0273,2025-06-16,Johor,Batu Pahat,Engineering,Agricultural,Urban,86.62,48.3,5.0,2.6,28,34.3,11512.19,Passed
+LS0274,2024-04-13,Penang,Barat Daya,As-Built,Infrastructure,Coastal,50.12,25.5,0.3,1.4,14,23.1,7341.61,Passed
+LS0275,2025-12-11,Sabah,Penampang,Engineering,Industrial,Urban,62.55,37.7,0.9,1.5,24,24.4,8442.56,Passed
+LS0276,2024-11-14,Penang,Barat Daya,Engineering,Forest,Rolling,23.33,31.2,9.8,5.0,7,12.5,4123.82,Passed
+LS0277,2025-10-23,Kuala Lumpur,Kuala Lumpur,Subdivision,Residential,Urban,11.67,84.3,4.4,4.3,15,9.6,3202.85,Passed
+LS0278,2025-02-17,Perak,Kinta,Construction Setting Out,Forest,Rolling,46.54,106.5,7.1,1.0,15,18.7,6468.01,Passed
+LS0279,2025-02-10,Penang,Seberang Perai Tengah,Topographic,Residential,Flat,3.11,66.2,0,4.1,12,6.8,2248.31,Passed
+LS0280,2024-09-21,Selangor,Klang,Topographic,Agricultural,Hilly,46.95,339.6,17.8,5.0,21,22.4,7412.96,Passed
+LS0281,2025-02-23,Selangor,Klang,Construction Setting Out,Residential,Flat,2.08,5.3,0,4.8,11,7.8,2279.99,Passed
+LS0282,2024-11-08,Penang,Seberang Perai Tengah,Subdivision,Residential,Urban,5.77,70.9,5.2,4.5,11,7.3,2556.87,Passed
+LS0283,2025-11-09,Kedah,Kulim,Construction Setting Out,Agricultural,Rolling,44.15,139.1,10.5,3.2,22,22.2,6958.24,Passed
+LS0284,2025-10-29,Kedah,Kulim,Cadastral,Industrial,Flat,7.0,41.3,6.3,4.8,13,10.1,3249.38,Passed
+LS0285,2024-10-29,Perak,Manjung,Topographic,Residential,Flat,9.69,0.2,3.3,3.9,9,10.2,3134.14,Passed
+LS0286,2025-05-02,Sarawak,Sibu,Subdivision,Residential,Rolling,7.06,107.9,15.5,2.3,12,11.2,3297.85,Passed
+LS0287,2026-07-23,Sabah,Kota Kinabalu,Topographic,Forest,Rolling,83.39,124.4,10.6,1.3,23,34.1,11060.49,Passed
+LS0288,2026-05-21,Sabah,Kota Kinabalu,Topographic,Agricultural,Hilly,21.99,283.6,27.2,7.0,18,15.5,4774.7,Review Required
+LS0289,2024-11-01,Kuala Lumpur,Kuala Lumpur,Subdivision,Infrastructure,Flat,55.55,17.8,0,1.6,14,24.3,7719.27,Passed
+LS0290,2024-07-03,Penang,Timur Laut,Topographic,Commercial,Urban,11.91,141.3,0,5.0,19,9.3,3463.68,Passed
+LS0291,2026-03-15,Kuala Lumpur,Kuala Lumpur,Topographic,Agricultural,Rolling,60.64,110.8,12.4,4.4,17,26.1,8272.75,Passed
+LS0292,2026-07-02,Johor,Batu Pahat,Subdivision,Industrial,Hilly,38.92,302.6,27.9,2.9,15,22.2,6891.67,Passed
+LS0293,2024-06-20,Perak,Kinta,Cadastral,Forest,Flat,69.96,115.9,2.9,2.2,16,26.5,8878.29,Passed
+LS0294,2025-01-02,Penang,Timur Laut,Engineering,Industrial,Flat,69.42,26.9,0,5.0,17,26.0,8920.19,Passed
+LS0295,2025-10-28,Johor,Johor Bahru,Construction Setting Out,Residential,Urban,2.86,36.6,3.8,4.2,20,7.5,2584.26,Passed
+LS0296,2025-03-30,Sarawak,Miri,Engineering,Infrastructure,Urban,59.57,48.9,3.2,1.2,12,21.3,7162.76,Passed
+LS0297,2025-09-12,Selangor,Klang,Construction Setting Out,Forest,Rolling,15.39,63.5,8.6,2.1,9,12.1,3570.87,Passed
+LS0298,2026-05-01,Johor,Kulai,Cadastral,Infrastructure,Rolling,68.56,121.6,11.1,1.2,19,28.7,9398.2,Passed
+LS0299,2025-11-18,Perak,Kinta,Construction Setting Out,Agricultural,Rolling,16.08,87.1,3.7,4.0,21,12.1,3876.96,Passed
+LS0300,2025-04-12,Selangor,Hulu Langat,Subdivision,Industrial,Urban,15.02,77.5,7.0,4.2,9,13.0,3871.57,Passed
+LS0301,2026-02-15,Kedah,Kota Setar,Cadastral,Commercial,Rolling,10.51,83.5,11.7,3.9,18,13.0,3750.42,Passed
+LS0302,2024-04-26,Penang,Barat Daya,Subdivision,Forest,Urban,17.03,84.3,2.0,3.7,8,10.2,3285.35,Passed
+LS0303,2024-03-01,Sarawak,Kuching,Engineering,Industrial,Urban,65.85,60.0,0.9,5.0,18,24.2,8387.17,Passed
+LS0304,2026-06-20,Selangor,Klang,As-Built,Industrial,Rolling,76.41,90.1,9.2,2.5,25,31.7,10508.75,Passed
+LS0305,2026-02-24,Johor,Kulai,Construction Setting Out,Residential,Rolling,10.67,114.6,9.0,3.8,5,10.4,3093.31,Passed
+LS0306,2025-10-18,Perak,Manjung,Subdivision,Agricultural,Urban,49.8,10.0,2.4,2.8,18,21.7,7237.58,Passed
+LS0307,2025-05-18,Johor,Batu Pahat,As-Built,Infrastructure,Urban,6.13,39.0,2.9,4.8,19,11.6,3331.41,Passed
+LS0308,2025-04-03,Perak,Kinta,Engineering,Residential,Rolling,6.16,99.3,7.2,4.6,6,7.8,2504.22,Passed
+LS0309,2026-09-13,Kuala Lumpur,Kuala Lumpur,Cadastral,Industrial,Rolling,71.05,114.0,13.0,0.9,14,29.8,9551.81,Passed
+LS0310,2025-04-08,Perak,Kinta,Construction Setting Out,Agricultural,Hilly,35.15,318.3,27.0,4.9,24,22.5,6842.12,Review Required
+LS0311,2026-07-07,Selangor,Petaling,Topographic,Residential,Coastal,4.2,0,6.7,2.1,20,9.2,2850.93,Passed
+LS0312,2024-07-14,Kuala Lumpur,Kuala Lumpur,Subdivision,Forest,Flat,68.83,74.9,5.2,1.6,25,27.2,9342.68,Passed
+LS0313,2025-06-27,Selangor,Klang,Cadastral,Forest,Coastal,79.72,0,0,2.9,31,30.3,10435.27,Passed
+LS0314,2025-01-31,Penang,Seberang Perai Tengah,Construction Setting Out,Infrastructure,Hilly,46.4,305.9,18.2,3.6,15,23.2,7062.15,Passed
+LS0315,2024-05-16,Sabah,Kota Kinabalu,Construction Setting Out,Industrial,Rolling,93.07,80.1,14.4,2.0,27,39.1,12477.58,Passed
+LS0316,2024-10-24,Sarawak,Sibu,Subdivision,Infrastructure,Hilly,29.1,243.7,23.2,6.1,14,16.1,5188.37,Review Required
+LS0317,2025-07-29,Sabah,Penampang,Topographic,Forest,Urban,62.11,44.3,7.4,4.0,22,27.5,8994.43,Passed
+LS0318,2024-07-23,Sarawak,Miri,As-Built,Agricultural,Hilly,83.48,312.6,24.6,3.2,27,33.4,11107.26,Passed
+LS0319,2025-09-22,Johor,Kulai,Subdivision,Agricultural,Urban,14.76,78.3,8.9,1.7,7,10.1,3183.46,Passed
+LS0320,2026-09-06,Perak,Larut Matang,As-Built,Industrial,Coastal,23.33,0,4.1,2.1,8,15.0,4455.88,Passed
+LS0321,2025-12-22,Sabah,Sandakan,Cadastral,Residential,Urban,8.96,122.5,5.8,4.8,19,12.5,3951.41,Passed
+LS0322,2026-09-12,Sabah,Kota Kinabalu,As-Built,Forest,Coastal,57.72,0,4.3,2.1,17,26.4,8172.03,Passed
+LS0323,2024-02-10,Selangor,Petaling,Construction Setting Out,Agricultural,Rolling,53.32,143.8,12.7,1.9,21,24.2,8053.44,Passed
+LS0324,2024-08-13,Sabah,Kota Kinabalu,Subdivision,Infrastructure,Hilly,80.26,368.7,23.3,5.3,17,33.8,10585.06,Review Required
+LS0325,2026-08-31,Selangor,Klang,Topographic,Industrial,Coastal,52.05,26.5,0.7,4.9,21,21.9,7317.03,Passed
+LS0326,2024-11-24,Kuala Lumpur,Kuala Lumpur,Subdivision,Residential,Urban,1.51,76.4,2.7,3.8,11,9.4,2717.44,Passed
+LS0327,2026-07-08,Selangor,Klang,As-Built,Forest,Rolling,27.59,75.6,14.7,2.5,23,17.5,5439.82,Passed
+LS0328,2024-08-06,Perak,Larut Matang,Cadastral,Residential,Rolling,2.13,98.2,13.6,0.7,6,6.2,1970.27,Passed
+LS0329,2025-04-15,Sarawak,Sibu,Topographic,Infrastructure,Urban,78.9,15.2,7.6,2.8,17,31.6,10055.3,Passed
+LS0330,2025-02-18,Sabah,Penampang,Cadastral,Residential,Flat,2.26,58.4,2.0,4.6,12,6.9,2225.87,Passed
+LS0331,2026-08-08,Sabah,Sandakan,Subdivision,Residential,Flat,6.49,7.3,0,4.3,5,8.2,2268.62,Passed
+LS0332,2024-05-19,Selangor,Klang,Subdivision,Agricultural,Flat,58.02,123.4,0.7,2.5,12,22.7,7523.73,Passed
+LS0333,2026-06-14,Sarawak,Sibu,As-Built,Agricultural,Coastal,91.25,49.4,5.8,5.1,28,37.7,11997.46,Review Required
+LS0334,2026-05-21,Johor,Kulai,Cadastral,Infrastructure,Flat,57.09,25.4,0,2.2,23,23.0,8041.03,Passed
+LS0335,2025-07-16,Johor,Batu Pahat,Topographic,Infrastructure,Flat,79.47,65.8,2.7,4.5,16,31.5,10340.19,Passed
+LS0336,2024-10-18,Selangor,Klang,Cadastral,Agricultural,Flat,10.23,5.0,1.5,2.3,9,9.9,2932.97,Passed
+LS0337,2024-06-21,Selangor,Petaling,Engineering,Industrial,Urban,43.36,35.0,2.1,3.5,21,22.0,7236.58,Passed
+LS0338,2025-01-02,Sabah,Penampang,Topographic,Forest,Flat,70.54,71.2,0,1.3,24,30.2,9792.82,Passed
+LS0339,2024-03-19,Kuala Lumpur,Kuala Lumpur,Topographic,Forest,Hilly,58.02,252.0,28.2,3.4,18,25.7,8411.87,Passed
+LS0340,2025-07-06,Penang,Barat Daya,Subdivision,Residential,Urban,9.78,26.5,0,1.7,6,8.5,2682.65,Passed
+LS0341,2024-09-01,Johor,Kulai,Topographic,Infrastructure,Rolling,69.92,147.8,9.1,3.1,25,28.6,9321.88,Passed
+LS0342,2025-01-02,Johor,Johor Bahru,Topographic,Industrial,Coastal,15.97,0,0,4.9,10,11.9,3675.64,Passed
+LS0343,2026-06-21,Perak,Kinta,Topographic,Residential,Coastal,3.28,59.8,3.4,3.2,15,7.8,2717.92,Passed
+LS0344,2025-01-20,Penang,Seberang Perai Tengah,Engineering,Residential,Urban,8.49,46.2,0,4.7,13,9.5,3048.14,Passed
+LS0345,2026-03-22,Sarawak,Miri,Subdivision,Residential,Rolling,6.27,163.5,5.3,3.2,15,11.0,3206.35,Passed
+LS0346,2026-04-16,Penang,Timur Laut,Topographic,Industrial,Rolling,16.57,133.4,13.8,1.7,11,10.8,3576.75,Passed
+LS0347,2025-08-10,Perak,Larut Matang,Engineering,Forest,Rolling,11.65,74.4,8.4,3.5,18,9.4,3111.56,Passed
+LS0348,2025-07-31,Johor,Kulai,As-Built,Residential,Flat,10.71,61.8,3.1,5.1,21,13.7,4186.06,Review Required
+LS0349,2026-04-30,Penang,Barat Daya,Subdivision,Forest,Urban,78.2,47.0,6.0,3.6,30,34.0,10892.63,Passed
+LS0350,2025-01-22,Johor,Batu Pahat,Topographic,Infrastructure,Coastal,63.01,63.9,2.6,2.3,27,27.5,8915.46,Passed
+LS0351,2025-09-06,Johor,Johor Bahru,Topographic,Infrastructure,Flat,81.8,44.0,0,1.4,18,28.9,10008.74,Passed
+LS0352,2024-02-14,Selangor,Klang,Subdivision,Commercial,Flat,10.84,44.6,1.9,5.2,18,10.9,3485.93,Review Required
+LS0353,2026-02-23,Sarawak,Kuching,Construction Setting Out,Industrial,Flat,33.95,0,4.2,4.7,11,16.0,5129.71,Passed
+LS0354,2025-11-01,Selangor,Petaling,As-Built,Industrial,Flat,25.23,47.0,6.9,0.7,23,14.3,4734.04,Passed
+LS0355,2025-02-10,Sabah,Kota Kinabalu,Cadastral,Commercial,Rolling,5.2,96.1,8.0,3.3,15,9.9,3216.62,Passed
+LS0356,2024-05-21,Sarawak,Sibu,As-Built,Industrial,Hilly,17.8,295.4,21.8,7.4,17,16.1,4719.35,Review Required
+LS0357,2024-01-06,Selangor,Petaling,Construction Setting Out,Forest,Coastal,90.23,32.6,5.9,4.5,17,31.6,10855.49,Passed
+LS0358,2025-11-02,Johor,Kulai,As-Built,Industrial,Rolling,9.29,143.6,9.8,3.6,17,13.2,3826.44,Passed
+LS0359,2025-06-14,Kedah,Kulim,As-Built,Residential,Coastal,11.36,0,4.8,2.8,11,11.8,3674.42,Passed
+LS0360,2024-03-29,Perak,Manjung,As-Built,Infrastructure,Flat,49.49,66.2,2.2,0.9,18,22.4,7478.84,Passed
+LS0361,2025-07-26,Sarawak,Sibu,Construction Setting Out,Industrial,Rolling,56.09,103.6,5.1,1.0,14,23.4,7713.24,Passed
+LS0362,2025-07-26,Sabah,Kota Kinabalu,Engineering,Commercial,Rolling,7.34,185.8,12.4,3.5,13,8.5,2789.28,Passed
+LS0363,2026-02-27,Kedah,Kota Setar,Cadastral,Infrastructure,Rolling,90.93,65.0,13.9,3.5,30,38.9,12490.83,Passed
+LS0364,2024-08-13,Sabah,Sandakan,Construction Setting Out,Forest,Urban,44.31,50.7,3.4,1.3,12,18.7,6309.98,Passed
+LS0365,2024-12-16,Perak,Kinta,Construction Setting Out,Agricultural,Urban,49.55,59.0,9.7,1.9,13,21.1,6990.12,Passed
+LS0366,2026-01-23,Johor,Johor Bahru,Engineering,Commercial,Rolling,10.75,194.3,9.1,4.0,11,10.4,3097.37,Passed
+LS0367,2025-09-20,Kedah,Kota Setar,Topographic,Commercial,Flat,10.06,92.8,0,1.3,7,9.4,2940.89,Passed
+LS0368,2026-07-26,Penang,Seberang Perai Tengah,Engineering,Infrastructure,Urban,30.65,11.9,9.0,3.5,16,16.7,5572.56,Passed
+LS0369,2026-03-05,Kedah,Kota Setar,As-Built,Commercial,Rolling,0.79,72.0,11.0,3.3,20,8.6,2898.34,Passed
+LS0370,2024-09-22,Kuala Lumpur,Kuala Lumpur,Subdivision,Infrastructure,Urban,44.25,50.0,3.8,1.7,13,18.6,6250.61,Passed
+LS0371,2025-04-06,Kedah,Kota Setar,Construction Setting Out,Infrastructure,Flat,33.25,78.6,3.3,2.7,19,16.7,5544.24,Passed
+LS0372,2026-01-26,Johor,Johor Bahru,Subdivision,Commercial,Urban,9.8,0,3.0,3.4,17,8.9,3212.11,Passed
+LS0373,2025-07-29,Kuala Lumpur,Kuala Lumpur,Topographic,Industrial,Urban,47.96,53.1,9.8,3.2,20,23.8,7467.33,Passed
+LS0374,2025-07-24,Sarawak,Miri,Topographic,Residential,Flat,2.7,111.9,1.8,1.2,14,6.6,2216.52,Passed
+LS0375,2024-11-28,Sabah,Sandakan,Cadastral,Agricultural,Flat,82.53,39.6,3.9,3.5,20,33.8,10763.1,Passed
+LS0376,2025-03-07,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Residential,Coastal,4.67,56.2,2.0,1.4,9,8.3,2681.07,Passed
+LS0377,2026-06-02,Selangor,Hulu Langat,Engineering,Commercial,Flat,3.86,0,0,3.6,16,7.2,2474.08,Passed
+LS0378,2024-04-07,Kuala Lumpur,Kuala Lumpur,Topographic,Residential,Rolling,1.63,136.5,10.2,4.3,6,5.7,1763.78,Passed
+LS0379,2024-11-12,Kuala Lumpur,Kuala Lumpur,Cadastral,Industrial,Rolling,50.25,109.6,11.4,3.7,13,22.8,7388.69,Passed
+LS0380,2025-05-02,Perak,Manjung,Construction Setting Out,Forest,Coastal,12.88,4.4,1.2,0.9,16,12.8,3841.04,Passed
+LS0381,2024-11-13,Kedah,Kulim,Topographic,Forest,Rolling,51.69,89.1,7.2,4.3,24,24.0,7924.79,Passed
+LS0382,2024-12-18,Kuala Lumpur,Kuala Lumpur,Cadastral,Industrial,Rolling,29.94,120.7,8.5,0.8,24,19.5,6262.16,Passed
+LS0383,2025-07-15,Kuala Lumpur,Kuala Lumpur,Subdivision,Industrial,Rolling,90.01,110.7,9.6,2.8,25,35.5,11756.63,Passed
+LS0384,2025-10-02,Perak,Kinta,As-Built,Industrial,Rolling,38.11,158.9,12.5,2.6,21,18.7,6053.8,Passed
+LS0385,2025-04-08,Kedah,Kulim,Subdivision,Infrastructure,Flat,77.03,80.7,0,1.6,24,28.2,9692.4,Passed
+LS0386,2024-01-09,Kuala Lumpur,Kuala Lumpur,Cadastral,Commercial,Flat,0.74,40.1,0.1,1.2,12,4.9,1786.95,Passed
+LS0387,2024-03-23,Selangor,Petaling,Construction Setting Out,Commercial,Flat,4.2,103.1,0,5.5,18,9.7,2849.59,Review Required
+LS0388,2026-02-25,Penang,Seberang Perai Tengah,Construction Setting Out,Residential,Flat,6.59,112.7,4.7,1.9,16,11.2,3199.56,Passed
+LS0389,2025-02-02,Perak,Larut Matang,Construction Setting Out,Commercial,Rolling,8.89,118.1,13.3,4.4,21,12.9,3805.26,Passed
+LS0390,2026-06-27,Kedah,Kota Setar,Topographic,Forest,Urban,69.45,10.8,3.9,1.3,28,29.8,9695.39,Passed
+LS0391,2024-02-13,Perak,Larut Matang,Topographic,Forest,Urban,41.81,60.9,9.3,3.5,21,22.2,6828.59,Passed
+LS0392,2025-10-02,Kuala Lumpur,Kuala Lumpur,Topographic,Agricultural,Hilly,73.45,351.2,25.0,6.0,24,34.1,10850.19,Review Required
+LS0393,2024-07-16,Penang,Timur Laut,Topographic,Forest,Rolling,51.42,135.3,12.7,2.2,22,25.6,8065.13,Passed
+LS0394,2024-12-22,Sarawak,Miri,Topographic,Agricultural,Rolling,85.47,113.5,6.8,2.1,31,32.9,11032.89,Passed
+LS0395,2025-06-02,Kuala Lumpur,Kuala Lumpur,As-Built,Infrastructure,Flat,16.07,37.6,0,4.6,17,11.7,3983.81,Passed
+LS0396,2026-02-23,Johor,Kulai,As-Built,Agricultural,Urban,73.95,110.8,4.3,3.9,26,28.5,9773.69,Passed
+LS0397,2024-04-19,Johor,Batu Pahat,Engineering,Industrial,Hilly,61.24,337.2,27.8,3.0,16,25.8,8159.59,Passed
+LS0398,2026-01-05,Perak,Kinta,As-Built,Forest,Flat,79.61,9.2,0,4.1,23,28.4,9711.91,Passed
+LS0399,2026-06-30,Penang,Barat Daya,Topographic,Forest,Urban,47.19,45.9,4.9,4.5,11,19.4,6510.37,Passed
+LS0400,2026-01-12,Sabah,Kota Kinabalu,Cadastral,Infrastructure,Coastal,25.99,11.4,4.1,2.2,13,16.7,4925.93,Passed
+LS0401,2025-08-13,Sarawak,Miri,As-Built,Forest,Flat,24.38,29.4,0.7,4.3,20,16.0,5220.47,Passed
+LS0402,2026-08-13,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Residential,Coastal,2.13,40.1,4.3,2.3,9,7.3,2257.93,Passed
+LS0403,2026-02-23,Sabah,Sandakan,Engineering,Agricultural,Hilly,39.76,261.4,21.2,4.3,16,21.0,6442.49,Passed
+LS0404,2024-11-05,Kedah,Kota Setar,Construction Setting Out,Industrial,Rolling,91.22,110.0,10.8,2.1,17,34.2,11389.6,Passed
+LS0405,2024-06-07,Kedah,Kota Setar,Topographic,Agricultural,Urban,3.04,6.8,6.0,2.0,20,9.7,3222.55,Passed
+LS0406,2026-07-28,Penang,Timur Laut,Topographic,Commercial,Rolling,3.29,93.0,11.7,1.9,13,6.9,2280.6,Passed
+LS0407,2026-01-18,Selangor,Klang,Construction Setting Out,Commercial,Coastal,5.94,0,6.8,4.6,7,8.6,2474.64,Passed
+LS0408,2026-08-08,Sarawak,Kuching,Cadastral,Agricultural,Flat,33.71,11.9,3.3,4.9,15,18.1,5874.11,Passed
+LS0409,2025-02-06,Sarawak,Miri,As-Built,Residential,Flat,3.93,32.6,0,4.0,8,4.7,1873.19,Passed
+LS0410,2025-03-20,Selangor,Klang,Engineering,Industrial,Flat,14.91,79.1,0.2,4.3,18,10.6,3612.63,Passed
+LS0411,2026-03-06,Johor,Batu Pahat,Construction Setting Out,Infrastructure,Coastal,19.62,35.8,0,3.4,22,12.5,4159.2,Passed
+LS0412,2024-11-08,Sabah,Kota Kinabalu,As-Built,Residential,Hilly,1.48,327.2,22.6,3.6,15,10.4,2765.84,Passed
+LS0413,2024-03-28,Sabah,Kota Kinabalu,Construction Setting Out,Infrastructure,Hilly,14.71,328.0,30.3,3.7,17,13.1,4166.71,Review Required
+LS0414,2024-12-05,Penang,Timur Laut,As-Built,Commercial,Flat,10.44,39.7,2.2,4.0,8,8.1,2671.46,Passed
+LS0415,2025-06-23,Perak,Kinta,As-Built,Agricultural,Flat,52.59,0,0,4.0,11,20.5,7005.7,Passed
+LS0416,2025-11-09,Kedah,Langkawi,Engineering,Commercial,Flat,9.5,37.2,1.3,3.8,5,6.0,2223.15,Passed
+LS0417,2025-09-03,Sabah,Sandakan,Cadastral,Agricultural,Urban,82.54,34.5,2.7,2.5,18,33.0,10631.54,Passed
+LS0418,2024-06-09,Selangor,Petaling,As-Built,Industrial,Flat,53.7,35.3,1.8,5.1,20,22.3,7468.26,Review Required
+LS0419,2026-06-30,Sabah,Kota Kinabalu,Engineering,Forest,Hilly,29.42,307.6,33.3,4.0,9,18.6,5606.11,Review Required
+LS0420,2025-03-12,Kedah,Kulim,Engineering,Industrial,Flat,62.75,63.0,4.5,5.3,19,25.4,8461.66,Review Required
+LS0421,2025-06-20,Sabah,Kota Kinabalu,Topographic,Commercial,Rolling,7.88,84.1,6.0,1.7,9,7.9,2652.51,Passed
+LS0422,2024-05-29,Sarawak,Sibu,Topographic,Forest,Urban,88.7,39.8,6.3,3.4,19,31.7,10823.71,Passed
+LS0423,2024-05-14,Penang,Timur Laut,Construction Setting Out,Industrial,Coastal,29.51,0,2.8,3.8,16,14.1,4725.09,Passed
+LS0424,2025-05-03,Penang,Timur Laut,As-Built,Infrastructure,Coastal,26.09,0,1.0,1.8,7,12.4,4179.04,Passed
+LS0425,2026-08-05,Kuala Lumpur,Kuala Lumpur,Engineering,Commercial,Coastal,10.25,9.0,1.4,1.6,6,8.1,2798.53,Passed
+LS0426,2026-06-27,Sarawak,Kuching,Subdivision,Commercial,Flat,9.13,77.3,8.3,5.4,20,12.3,3935.67,Review Required
+LS0427,2024-02-09,Sarawak,Sibu,Cadastral,Infrastructure,Rolling,70.12,130.7,8.1,3.6,30,30.8,10174.69,Passed
+LS0428,2024-07-13,Selangor,Hulu Langat,Cadastral,Commercial,Rolling,6.3,144.8,6.1,3.4,20,11.7,3744.14,Passed
+LS0429,2025-10-23,Kuala Lumpur,Kuala Lumpur,Engineering,Agricultural,Rolling,44.37,132.6,6.3,1.0,26,24.1,7629.47,Passed
+LS0430,2025-04-09,Selangor,Klang,Cadastral,Commercial,Coastal,9.38,0,7.3,1.3,18,10.1,3138.42,Passed
+LS0431,2025-10-11,Perak,Manjung,Cadastral,Agricultural,Urban,31.46,10.6,1.2,1.5,11,13.3,4706.31,Passed
+LS0432,2024-12-09,Selangor,Klang,Construction Setting Out,Forest,Rolling,75.36,103.7,2.7,2.5,26,28.0,9535.47,Passed
+LS0433,2026-07-09,Johor,Johor Bahru,Topographic,Commercial,Flat,9.26,54.5,4.4,4.2,19,9.8,3172.2,Passed
+LS0434,2025-05-02,Perak,Manjung,Engineering,Residential,Flat,5.58,10.4,4.3,0.7,19,8.5,2940.4,Passed
+LS0435,2025-10-30,Sarawak,Miri,As-Built,Infrastructure,Rolling,1.62,90.9,11.8,3.7,10,5.7,1791.84,Passed
+LS0436,2025-11-19,Penang,Barat Daya,Cadastral,Forest,Flat,55.34,26.0,0,1.1,14,22.0,7203.58,Passed
+LS0437,2026-05-13,Johor,Kulai,Subdivision,Infrastructure,Urban,34.86,68.4,9.0,2.2,20,20.3,6453.0,Passed
+LS0438,2026-01-17,Selangor,Klang,Topographic,Residential,Flat,8.38,87.3,1.4,3.2,11,9.4,2776.68,Passed
+LS0439,2025-09-30,Selangor,Hulu Langat,Subdivision,Infrastructure,Rolling,88.79,107.5,12.5,3.6,26,34.0,11371.24,Passed
+LS0440,2024-01-02,Johor,Johor Bahru,Construction Setting Out,Infrastructure,Hilly,69.54,310.9,19.6,6.9,20,30.6,9903.38,Review Required
+LS0441,2024-08-05,Penang,Timur Laut,Cadastral,Forest,Rolling,80.72,0,13.4,2.7,25,32.1,10741.16,Passed
+LS0442,2025-09-22,Perak,Kinta,Engineering,Residential,Hilly,3.8,308.7,22.3,2.7,14,9.6,2963.36,Passed
+LS0443,2025-07-03,Johor,Batu Pahat,Engineering,Forest,Flat,46.04,46.5,1.2,1.4,14,20.5,6821.0,Passed
+LS0444,2026-03-29,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Forest,Coastal,6.27,2.0,0,4.0,4,5.5,1973.04,Passed
+LS0445,2026-03-12,Selangor,Hulu Langat,Engineering,Residential,Urban,4.17,85.5,1.4,1.5,16,7.0,2318.88,Passed
+LS0446,2024-04-24,Sabah,Penampang,Engineering,Industrial,Coastal,9.16,0,5.1,4.7,14,8.6,2834.65,Passed
+LS0447,2025-06-20,Penang,Barat Daya,Cadastral,Industrial,Coastal,48.56,0,5.0,1.4,20,24.2,7739.5,Passed
+LS0448,2024-02-15,Sabah,Sandakan,Cadastral,Infrastructure,Flat,64.61,86.6,5.2,2.9,29,26.2,8903.01,Passed
+LS0449,2024-07-24,Selangor,Petaling,Cadastral,Residential,Rolling,6.32,84.5,8.6,3.5,13,10.1,2923.88,Passed
+LS0450,2025-07-16,Kedah,Kulim,Engineering,Industrial,Flat,64.09,65.3,1.8,1.2,29,25.6,8862.79,Passed
+LS0451,2026-07-13,Kedah,Langkawi,Subdivision,Agricultural,Flat,54.96,71.6,3.2,5.0,25,22.2,7516.92,Passed
+LS0452,2026-04-17,Penang,Timur Laut,Cadastral,Residential,Flat,5.2,87.5,3.7,3.5,18,10.0,3059.38,Passed
+LS0453,2026-02-23,Selangor,Hulu Langat,Construction Setting Out,Infrastructure,Urban,13.39,0,6.6,2.9,19,11.3,3808.65,Passed
+LS0454,2025-04-09,Kuala Lumpur,Kuala Lumpur,Topographic,Commercial,Flat,10.35,0,0,2.6,15,11.4,3666.66,Passed
+LS0455,2026-01-01,Penang,Timur Laut,Cadastral,Agricultural,Flat,45.99,21.5,3.4,2.4,14,20.2,6568.85,Passed
+LS0456,2024-12-14,Sabah,Kota Kinabalu,Cadastral,Agricultural,Hilly,51.08,331.1,22.5,5.7,16,26.4,7984.89,Review Required
+LS0457,2026-05-06,Sarawak,Miri,Construction Setting Out,Infrastructure,Coastal,75.01,0.9,0.9,3.9,16,29.5,9694.68,Passed
+LS0458,2025-09-02,Selangor,Hulu Langat,Construction Setting Out,Agricultural,Hilly,53.18,290.4,25.8,7.3,13,24.9,7820.26,Review Required
+LS0459,2025-04-08,Sabah,Sandakan,Subdivision,Residential,Rolling,1.22,43.3,12.6,5.0,4,8.2,2250.59,Passed
+LS0460,2026-01-05,Kedah,Kulim,As-Built,Industrial,Rolling,19.39,82.2,8.9,3.4,15,15.6,4845.05,Passed
+LS0461,2025-01-02,Selangor,Petaling,As-Built,Infrastructure,Hilly,38.99,331.0,26.7,4.5,10,17.6,5727.59,Review Required
+LS0462,2024-06-26,Kedah,Kulim,Topographic,Industrial,Urban,67.01,73.9,1.9,2.5,25,27.4,9057.91,Passed
+LS0463,2024-05-27,Johor,Kulai,Construction Setting Out,Agricultural,Flat,79.96,144.7,7.9,3.9,19,28.5,9788.18,Passed
+LS0464,2025-03-10,Kuala Lumpur,Kuala Lumpur,Topographic,Residential,Hilly,1.78,244.8,27.0,7.0,17,11.5,3218.02,Review Required
+LS0465,2025-08-13,Sarawak,Miri,Topographic,Industrial,Rolling,57.83,78.1,4.9,1.8,28,24.8,8573.49,Passed
+LS0466,2026-05-29,Penang,Barat Daya,As-Built,Industrial,Urban,67.26,81.2,6.6,4.0,17,28.1,9067.98,Passed
+LS0467,2025-08-16,Kuala Lumpur,Kuala Lumpur,As-Built,Infrastructure,Rolling,9.31,119.9,5.1,5.3,7,9.8,2933.7,Review Required
+LS0468,2024-10-28,Penang,Barat Daya,As-Built,Residential,Urban,5.71,51.9,0.6,4.2,17,8.3,3000.42,Passed
+LS0469,2024-10-25,Johor,Kulai,As-Built,Forest,Flat,29.58,18.5,2.5,3.7,13,15.6,5096.89,Passed
+LS0470,2026-01-29,Penang,Timur Laut,Cadastral,Commercial,Flat,6.14,22.3,3.4,1.3,12,7.5,2422.16,Passed
+LS0471,2026-06-01,Johor,Johor Bahru,Subdivision,Commercial,Urban,7.96,70.9,2.7,4.5,12,9.0,2993.07,Passed
+LS0472,2025-10-14,Sabah,Kota Kinabalu,Topographic,Infrastructure,Urban,88.79,88.8,6.0,5.5,28,33.5,11288.75,Review Required
+LS0473,2026-08-29,Perak,Larut Matang,Engineering,Residential,Hilly,7.76,292.6,25.1,3.5,17,12.2,3607.43,Passed
+LS0474,2025-06-26,Perak,Larut Matang,Subdivision,Industrial,Rolling,45.61,165.9,13.7,0.8,24,22.3,7225.4,Passed
+LS0475,2024-04-10,Penang,Barat Daya,As-Built,Forest,Flat,34.26,5.1,4.3,3.8,16,16.5,5400.26,Passed
+LS0476,2024-01-09,Sarawak,Kuching,Subdivision,Forest,Rolling,23.73,57.0,7.6,3.2,12,13.1,4098.39,Passed
+LS0477,2026-08-19,Penang,Seberang Perai Tengah,As-Built,Residential,Rolling,8.27,155.2,7.1,1.9,6,6.2,2013.12,Passed
+LS0478,2024-09-16,Perak,Manjung,Subdivision,Residential,Urban,8.54,102.2,8.3,1.3,10,11.5,3374.44,Passed
+LS0479,2024-10-10,Kuala Lumpur,Kuala Lumpur,Cadastral,Forest,Hilly,43.62,308.2,30.1,6.0,20,22.2,7181.33,Review Required
+LS0480,2025-05-18,Sarawak,Kuching,Cadastral,Agricultural,Rolling,90.83,147.6,9.7,3.1,22,35.3,11410.74,Passed
+LS0481,2024-09-13,Johor,Batu Pahat,Construction Setting Out,Commercial,Rolling,7.43,133.4,12.5,1.9,6,6.8,2280.6,Passed
+LS0482,2025-06-11,Penang,Seberang Perai Tengah,Topographic,Forest,Urban,61.19,33.8,8.0,2.0,22,28.3,9029.34,Passed
+LS0483,2025-01-02,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Forest,Rolling,74.41,67.4,10.8,0.7,29,29.6,10033.34,Passed
+LS0484,2024-07-26,Kedah,Kota Setar,Subdivision,Forest,Rolling,9.52,90.8,2.5,1.1,19,12.0,3633.82,Passed
+LS0485,2026-01-22,Penang,Timur Laut,Subdivision,Commercial,Urban,3.69,65.6,2.9,4.0,19,7.0,2601.1,Passed
+LS0486,2026-04-11,Johor,Batu Pahat,Cadastral,Forest,Flat,94.66,79.6,2.2,4.5,26,35.7,12088.2,Passed
+LS0487,2026-06-14,Penang,Seberang Perai Tengah,Cadastral,Agricultural,Flat,75.05,49.7,3.5,4.6,30,30.8,10371.33,Passed
+LS0488,2024-01-15,Johor,Johor Bahru,Topographic,Residential,Coastal,0.59,47.6,5.8,3.0,5,4.9,1640.79,Passed
+LS0489,2024-08-13,Penang,Timur Laut,Cadastral,Industrial,Urban,58.46,44.1,4.6,4.6,15,23.9,7966.49,Passed
+LS0490,2026-02-21,Perak,Kinta,Subdivision,Forest,Rolling,38.79,146.6,13.3,3.3,19,21.7,6858.92,Passed
+LS0491,2024-05-16,Johor,Johor Bahru,Cadastral,Agricultural,Rolling,14.28,137.5,6.0,3.4,20,11.3,3853.05,Passed
+LS0492,2026-03-02,Sarawak,Miri,Cadastral,Industrial,Coastal,8.59,11.6,9.8,4.1,14,9.9,3253.24,Passed
+LS0493,2025-09-18,Johor,Johor Bahru,Subdivision,Agricultural,Flat,50.17,88.3,0,3.6,12,21.1,6971.52,Passed
+LS0494,2025-06-03,Kedah,Kota Setar,Cadastral,Infrastructure,Rolling,23.15,139.0,12.7,1.2,18,17.3,5433.51,Passed
+LS0495,2026-08-02,Kuala Lumpur,Kuala Lumpur,Subdivision,Commercial,Coastal,3.43,66.6,4.9,4.0,19,9.2,2807.96,Passed
+LS0496,2025-07-04,Penang,Timur Laut,Engineering,Commercial,Hilly,5.3,364.6,22.3,6.3,5,7.3,2044.08,Review Required
+LS0497,2026-07-08,Johor,Batu Pahat,Construction Setting Out,Infrastructure,Coastal,11.91,0,6.8,3.5,15,10.7,3548.55,Passed
+LS0498,2024-02-25,Perak,Manjung,Engineering,Commercial,Coastal,1.31,0,2.5,2.5,11,4.9,1837.56,Passed
+LS0499,2024-05-10,Johor,Johor Bahru,As-Built,Industrial,Flat,17.74,72.6,0,1.6,17,14.7,4379.46,Passed
+LS0500,2025-09-18,Penang,Timur Laut,Cadastral,Industrial,Flat,44.11,73.3,3.3,5.0,15,21.2,6799.82,Passed
+LS0501,2024-09-09,Perak,Kinta,As-Built,Industrial,Flat,82.05,83.8,2.7,2.9,15,31.5,10338.07,Passed
+LS0502,2026-02-26,Sabah,Sandakan,Topographic,Infrastructure,Rolling,89.95,71.4,15.5,2.7,17,32.0,10720.16,Passed
+LS0503,2026-01-19,Penang,Barat Daya,Construction Setting Out,Industrial,Rolling,77.11,95.0,9.6,3.1,17,30.3,9683.09,Passed
+LS0504,2024-01-25,Perak,Manjung,Engineering,Commercial,Flat,7.82,66.6,4.9,2.2,19,12.2,3782.35,Passed
+LS0505,2026-07-03,Kuala Lumpur,Kuala Lumpur,Subdivision,Industrial,Coastal,18.38,0,5.9,4.1,6,13.1,3705.74,Passed
+LS0506,2026-08-12,Penang,Timur Laut,Engineering,Forest,Flat,89.93,28.6,0,4.5,18,33.3,10937.84,Passed
+LS0507,2024-05-21,Sabah,Penampang,Cadastral,Industrial,Urban,35.37,32.3,1.9,1.5,11,16.8,5544.97,Passed
+LS0508,2025-05-30,Perak,Larut Matang,Subdivision,Industrial,Rolling,70.31,39.2,10.1,4.1,21,28.0,9454.19,Passed
+LS0509,2025-11-20,Sarawak,Sibu,Cadastral,Agricultural,Flat,33.45,48.7,0,1.3,17,16.5,5438.66,Passed
+LS0510,2024-05-31,Selangor,Hulu Langat,Construction Setting Out,Residential,Flat,1.1,27.7,4.0,5.3,7,4.8,1493.01,Review Required
+LS0511,2025-10-22,Johor,Johor Bahru,As-Built,Forest,Urban,3.13,81.5,0.1,5.2,19,7.9,2668.5,Review Required
+LS0512,2025-06-26,Kedah,Langkawi,Cadastral,Commercial,Flat,10.04,41.1,0,3.5,15,9.8,3271.02,Passed
+LS0513,2024-02-18,Kuala Lumpur,Kuala Lumpur,As-Built,Commercial,Rolling,10.79,167.9,8.2,1.8,16,13.5,4060.58,Passed
+LS0514,2024-11-20,Sabah,Sandakan,Topographic,Infrastructure,Flat,87.87,17.1,1.4,5.4,20,31.0,10402.31,Review Required
+LS0515,2024-06-15,Johor,Kulai,Engineering,Commercial,Rolling,2.58,60.1,8.8,5.4,8,6.9,2146.81,Review Required
+LS0516,2026-09-26,Kedah,Langkawi,Cadastral,Industrial,Flat,88.52,0,2.8,5.2,20,30.5,10585.74,Review Required
+LS0517,2026-08-02,Sabah,Penampang,Engineering,Industrial,Hilly,85.22,298.9,29.9,7.5,20,36.5,11553.16,Review Required
+LS0518,2024-12-31,Sabah,Kota Kinabalu,Subdivision,Industrial,Hilly,85.62,344.0,27.4,4.2,28,36.8,11678.19,Review Required
+LS0519,2025-11-24,Sabah,Sandakan,Subdivision,Commercial,Flat,7.06,125.7,3.2,2.0,5,5.6,2122.3,Passed
+LS0520,2025-03-13,Selangor,Hulu Langat,Construction Setting Out,Commercial,Urban,5.96,29.7,1.1,1.0,15,8.3,2842.21,Passed
+LS0521,2025-03-29,Sarawak,Miri,Engineering,Agricultural,Rolling,34.03,100.0,16.0,1.1,22,20.7,6419.0,Passed
+LS0522,2025-06-21,Johor,Batu Pahat,Construction Setting Out,Forest,Urban,85.26,90.8,6.6,1.1,22,31.9,10871.77,Passed
+LS0523,2024-05-20,Selangor,Petaling,As-Built,Industrial,Urban,9.31,96.8,0,2.7,19,11.4,3700.12,Passed
+LS0524,2024-01-28,Johor,Johor Bahru,Engineering,Infrastructure,Urban,47.12,28.4,5.1,3.5,25,22.8,7472.42,Passed
+LS0525,2024-01-30,Johor,Johor Bahru,Subdivision,Forest,Flat,45.42,0,0,2.7,25,23.5,7603.05,Passed
+LS0526,2025-01-17,Kedah,Langkawi,Cadastral,Infrastructure,Rolling,71.08,88.0,6.6,4.9,29,32.4,10524.67,Passed
+LS0527,2025-10-13,Penang,Barat Daya,Topographic,Infrastructure,Urban,6.5,120.1,1.4,1.4,9,5.8,2068.47,Passed
+LS0528,2024-11-26,Penang,Barat Daya,As-Built,Forest,Flat,89.01,39.8,0,1.6,19,33.1,10826.77,Passed
+LS0529,2025-05-11,Kedah,Kulim,Subdivision,Forest,Flat,35.08,38.0,0,1.4,13,16.6,5399.57,Passed
+LS0530,2025-12-20,Sabah,Kota Kinabalu,Topographic,Residential,Urban,2.73,53.6,0,4.5,20,10.4,3253.68,Passed
+LS0531,2025-09-03,Sarawak,Sibu,Cadastral,Residential,Rolling,9.85,91.5,13.0,2.2,16,9.6,3168.48,Passed
+LS0532,2024-03-21,Sabah,Penampang,Engineering,Residential,Flat,8.97,57.5,3.2,4.0,12,8.4,2688.68,Passed
+LS0533,2024-02-14,Selangor,Petaling,Construction Setting Out,Industrial,Flat,5.0,83.9,6.1,3.2,5,7.3,2373.91,Passed
+LS0534,2026-02-03,Kedah,Kulim,Cadastral,Residential,Hilly,11.05,382.4,26.8,3.6,16,10.9,3340.82,Review Required
+LS0535,2026-09-14,Sabah,Penampang,As-Built,Forest,Rolling,58.62,109.6,8.9,4.6,12,24.1,7880.86,Passed
+LS0536,2025-03-26,Johor,Kulai,As-Built,Residential,Urban,11.69,69.1,5.7,3.1,20,11.1,3710.23,Passed
+LS0537,2024-05-19,Selangor,Hulu Langat,Engineering,Industrial,Flat,40.86,41.8,0,4.4,19,17.3,5858.75,Passed
+LS0538,2024-08-19,Sabah,Sandakan,As-Built,Forest,Coastal,4.82,23.3,2.3,2.1,13,9.2,2946.88,Passed
+LS0539,2025-05-18,Sarawak,Sibu,Construction Setting Out,Commercial,Flat,10.3,6.3,6.3,5.2,16,9.2,3336.09,Review Required
+LS0540,2024-06-21,Selangor,Petaling,As-Built,Forest,Rolling,64.59,133.9,12.2,4.0,16,27.9,9033.25,Passed
+LS0541,2025-08-18,Sabah,Sandakan,Engineering,Commercial,Urban,7.2,53.9,5.5,4.7,20,9.4,3256.8,Passed
+LS0542,2024-04-20,Kedah,Kota Setar,Subdivision,Industrial,Coastal,34.47,0,0,5.4,24,17.1,5976.44,Review Required
+LS0543,2025-01-26,Kedah,Langkawi,Topographic,Forest,Rolling,89.59,120.6,14.8,4.7,31,37.4,12352.61,Passed
+LS0544,2025-05-17,Sabah,Sandakan,As-Built,Infrastructure,Flat,10.06,72.0,6.4,4.4,19,9.8,3398.36,Passed
+LS0545,2025-01-20,Kedah,Kulim,As-Built,Infrastructure,Rolling,2.66,3.3,10.8,4.9,7,7.0,2046.54,Passed
+LS0546,2025-05-14,Kuala Lumpur,Kuala Lumpur,Topographic,Infrastructure,Flat,62.98,0,3.1,1.5,25,24.9,8627.95,Passed
+LS0547,2025-01-21,Kuala Lumpur,Kuala Lumpur,Subdivision,Infrastructure,Hilly,54.79,320.4,19.2,5.1,23,24.7,8133.1,Review Required
+LS0548,2025-01-24,Kedah,Kota Setar,Cadastral,Infrastructure,Rolling,5.24,82.3,11.4,4.3,4,9.2,2590.14,Passed
+LS0549,2024-11-08,Sarawak,Kuching,Engineering,Industrial,Rolling,34.02,87.6,8.8,3.8,10,18.7,5524.54,Passed
+LS0550,2025-08-25,Sabah,Kota Kinabalu,As-Built,Agricultural,Flat,4.51,14.3,0.3,3.2,17,7.5,2689.3,Passed
+LS0551,2025-11-14,Sabah,Penampang,Construction Setting Out,Agricultural,Rolling,54.82,95.0,10.5,3.9,21,24.6,8140.02,Passed
+LS0552,2025-08-10,Johor,Batu Pahat,Engineering,Industrial,Hilly,19.97,238.9,19.7,3.1,12,13.2,3973.75,Passed
+LS0553,2026-03-25,Perak,Kinta,Cadastral,Forest,Hilly,80.35,327.8,27.3,3.0,31,35.1,11234.1,Passed
+LS0554,2024-07-03,Kedah,Kota Setar,Engineering,Industrial,Rolling,63.36,143.4,8.8,1.9,29,27.9,9346.0,Passed
+LS0555,2024-03-02,Johor,Kulai,Topographic,Forest,Hilly,91.44,270.8,24.8,7.2,30,40.1,12799.63,Review Required
+LS0556,2025-10-11,Perak,Kinta,Topographic,Commercial,Rolling,1.93,82.8,9.0,2.8,14,10.2,3070.52,Passed
+LS0557,2026-04-27,Sarawak,Miri,Engineering,Forest,Flat,16.09,21.3,1.1,1.8,10,9.3,3104.51,Passed
+LS0558,2025-07-17,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Industrial,Rolling,61.81,114.8,11.7,1.4,20,27.9,8798.63,Passed
+LS0559,2025-01-07,Penang,Seberang Perai Tengah,Construction Setting Out,Residential,Urban,0.81,36.6,6.1,2.1,6,8.4,2232.82,Passed
+LS0560,2024-08-31,Selangor,Klang,Subdivision,Commercial,Rolling,2.95,92.2,6.8,1.3,20,8.2,2924.73,Passed
+LS0561,2024-08-07,Selangor,Hulu Langat,Engineering,Agricultural,Coastal,79.24,0,2.6,4.3,28,30.3,10162.31,Passed
+LS0562,2024-10-11,Kuala Lumpur,Kuala Lumpur,As-Built,Residential,Rolling,5.96,170.4,4.8,2.2,17,9.5,2940.36,Passed
+LS0563,2024-09-02,Sabah,Penampang,Engineering,Agricultural,Rolling,2.98,100.1,14.0,4.7,5,8.7,2500.18,Passed
+LS0564,2025-02-06,Sarawak,Miri,Subdivision,Agricultural,Rolling,85.9,70.2,8.5,1.8,30,34.0,11511.72,Passed
+LS0565,2024-03-23,Kedah,Kulim,Topographic,Agricultural,Flat,20.78,0,7.2,3.7,19,15.8,4803.37,Passed
+LS0566,2025-09-08,Kuala Lumpur,Kuala Lumpur,Engineering,Forest,Coastal,40.7,0.1,4.2,1.5,17,19.3,6254.64,Passed
+LS0567,2025-08-12,Kuala Lumpur,Kuala Lumpur,Cadastral,Forest,Hilly,61.31,264.8,21.4,3.4,24,26.6,8676.24,Passed
+LS0568,2025-05-04,Selangor,Klang,As-Built,Forest,Flat,92.15,0,4.5,4.8,30,37.4,12167.06,Passed
+LS0569,2026-05-04,Johor,Kulai,Subdivision,Infrastructure,Flat,78.72,22.8,2.6,2.7,20,29.7,9881.67,Passed
+LS0570,2024-02-20,Perak,Manjung,Cadastral,Infrastructure,Flat,61.83,0,0,5.4,18,23.7,8188.09,Review Required
+LS0571,2025-04-09,Sarawak,Sibu,Topographic,Residential,Hilly,11.5,349.7,26.9,2.8,21,13.9,4384.5,Passed
+LS0572,2024-07-30,Kuala Lumpur,Kuala Lumpur,Subdivision,Commercial,Flat,2.41,0,5.4,2.1,19,8.4,2725.74,Passed
+LS0573,2025-01-13,Kedah,Langkawi,Topographic,Industrial,Coastal,17.95,0,3.2,5.4,13,12.7,4172.33,Review Required
+LS0574,2024-09-19,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Commercial,Flat,10.48,39.4,5.0,1.7,17,11.9,3770.1,Passed
+LS0575,2025-01-25,Selangor,Hulu Langat,Cadastral,Agricultural,Hilly,88.52,315.9,22.2,5.6,17,32.1,10692.16,Review Required
+LS0576,2024-11-20,Sarawak,Sibu,Topographic,Infrastructure,Hilly,4.87,329.3,25.8,5.1,14,13.0,3400.31,Review Required
+LS0577,2026-06-16,Sarawak,Miri,Cadastral,Agricultural,Flat,5.15,96.0,6.2,4.7,15,11.3,3189.97,Passed
+LS0578,2024-08-23,Kedah,Kota Setar,Construction Setting Out,Commercial,Rolling,3.89,108.0,15.1,1.4,18,8.1,2587.33,Passed
+LS0579,2025-05-11,Penang,Barat Daya,Topographic,Forest,Rolling,44.91,159.5,14.8,3.1,24,22.1,7316.33,Passed
+LS0580,2025-07-30,Kuala Lumpur,Kuala Lumpur,Subdivision,Commercial,Flat,1.62,84.1,7.0,1.6,9,8.5,2547.57,Passed
+LS0581,2025-11-27,Penang,Timur Laut,As-Built,Commercial,Rolling,5.08,137.8,14.5,3.9,14,7.5,2611.38,Passed
+LS0582,2025-11-04,Sarawak,Kuching,Cadastral,Agricultural,Rolling,15.45,142.2,14.9,3.9,20,14.5,4369.13,Passed
+LS0583,2025-10-21,Sabah,Penampang,Subdivision,Infrastructure,Urban,90.38,105.6,1.8,4.2,20,32.0,10665.43,Passed
+LS0584,2024-04-01,Sabah,Kota Kinabalu,Subdivision,Residential,Coastal,6.63,0,1.9,1.9,11,10.8,3264.67,Passed
+LS0585,2026-07-14,Perak,Larut Matang,Construction Setting Out,Agricultural,Flat,61.83,39.3,3.7,2.1,25,27.6,9161.54,Passed
+LS0586,2025-01-12,Johor,Kulai,Cadastral,Agricultural,Rolling,49.19,114.7,3.8,3.0,24,20.7,7122.49,Passed
+LS0587,2025-10-24,Johor,Kulai,Construction Setting Out,Residential,Rolling,0.63,142.7,8.2,1.8,8,9.1,2466.87,Passed
+LS0588,2024-10-29,Selangor,Klang,Construction Setting Out,Residential,Flat,10.9,47.8,0.3,1.3,14,11.7,3569.54,Passed
+LS0589,2026-02-26,Penang,Seberang Perai Tengah,Cadastral,Infrastructure,Hilly,11.12,317.1,23.8,5.9,13,11.7,3571.77,Review Required
+LS0590,2026-02-14,Penang,Seberang Perai Tengah,Subdivision,Industrial,Flat,17.88,76.8,3.2,1.1,15,11.5,3938.1,Passed
+LS0591,2025-07-01,Kuala Lumpur,Kuala Lumpur,Engineering,Agricultural,Hilly,91.87,293.7,26.3,3.6,25,39.2,12243.07,Review Required
+LS0592,2025-09-23,Penang,Barat Daya,Cadastral,Commercial,Rolling,7.92,118.8,7.0,3.9,20,9.9,3419.39,Passed
+LS0593,2025-10-26,Sarawak,Kuching,Cadastral,Commercial,Urban,1.75,115.0,6.0,4.0,10,9.1,2450.69,Passed
+LS0594,2026-01-26,Perak,Larut Matang,Subdivision,Infrastructure,Rolling,18.95,147.1,8.9,3.0,6,9.9,3470.37,Passed
+LS0595,2025-10-07,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Residential,Urban,10.34,43.0,2.3,3.4,17,8.3,2806.93,Passed
+LS0596,2026-08-15,Sarawak,Sibu,Subdivision,Infrastructure,Urban,57.01,45.3,1.7,3.0,27,25.3,8518.77,Passed
+LS0597,2025-09-29,Kuala Lumpur,Kuala Lumpur,Cadastral,Infrastructure,Flat,2.79,24.5,0,2.0,17,10.1,2866.46,Passed
+LS0598,2026-08-01,Kuala Lumpur,Kuala Lumpur,Cadastral,Commercial,Hilly,3.56,340.0,26.0,3.8,11,10.7,3045.01,Review Required
+LS0599,2026-05-14,Johor,Johor Bahru,Subdivision,Forest,Urban,37.69,96.6,0,3.8,20,19.9,6514.38,Passed
+LS0600,2025-05-20,Perak,Manjung,Subdivision,Residential,Flat,8.05,61.9,3.4,3.6,8,10.0,3111.32,Passed
+LS0601,2025-03-16,Perak,Kinta,Cadastral,Residential,Flat,4.4,97.5,1.7,1.5,20,7.0,2435.27,Passed
+LS0602,2026-06-13,Perak,Larut Matang,Topographic,Industrial,Flat,25.24,72.7,0.5,0.9,15,16.2,5168.44,Passed
+LS0603,2024-04-17,Selangor,Petaling,Construction Setting Out,Industrial,Coastal,91.49,0,3.3,4.5,20,35.5,11356.87,Passed
+LS0604,2026-04-18,Selangor,Petaling,Engineering,Commercial,Urban,8.78,0,2.7,3.1,8,6.9,2336.75,Passed
+LS0605,2025-01-16,Selangor,Klang,Construction Setting Out,Industrial,Urban,73.31,57.7,9.7,3.0,23,30.0,9689.11,Passed
+LS0606,2025-04-14,Sarawak,Sibu,Subdivision,Commercial,Rolling,1.95,73.4,10.1,1.8,17,8.6,2670.62,Passed
+LS0607,2024-06-17,Sabah,Penampang,Construction Setting Out,Commercial,Urban,9.28,13.6,3.3,1.0,15,9.1,3236.04,Passed
+LS0608,2026-06-26,Penang,Seberang Perai Tengah,Cadastral,Forest,Rolling,87.72,147.2,12.3,5.4,32,38.2,12232.96,Review Required
+LS0609,2025-07-11,Kedah,Langkawi,Engineering,Agricultural,Coastal,1.74,50.1,2.3,5.1,16,7.7,2381.63,Review Required
+LS0610,2024-05-09,Kuala Lumpur,Kuala Lumpur,Subdivision,Industrial,Hilly,73.89,300.0,25.9,5.3,26,33.6,10737.4,Review Required
+LS0611,2026-01-13,Perak,Manjung,As-Built,Agricultural,Flat,50.01,24.4,2.1,0.8,19,20.7,7137.58,Passed
+LS0612,2024-01-06,Selangor,Hulu Langat,Engineering,Agricultural,Coastal,59.94,16.7,2.4,3.8,15,23.8,7919.45,Passed
+LS0613,2026-03-14,Sabah,Sandakan,Subdivision,Infrastructure,Urban,54.17,24.7,7.3,3.3,18,22.8,7472.95,Passed
+LS0614,2025-03-11,Johor,Batu Pahat,As-Built,Forest,Coastal,24.28,48.8,1.1,4.6,18,14.3,4589.88,Passed
+LS0615,2025-08-21,Selangor,Hulu Langat,Construction Setting Out,Commercial,Flat,5.79,56.2,0,3.2,20,10.9,3538.49,Passed
+LS0616,2025-12-22,Sarawak,Sibu,Subdivision,Industrial,Urban,69.78,65.4,2.4,3.1,28,30.1,9737.01,Passed
+LS0617,2024-05-03,Selangor,Hulu Langat,Construction Setting Out,Industrial,Hilly,4.07,347.3,27.1,7.1,7,10.3,2753.89,Review Required
+LS0618,2024-02-19,Kedah,Kulim,Topographic,Residential,Flat,4.55,43.3,4.5,3.0,8,5.8,2045.95,Passed
+LS0619,2026-07-10,Kedah,Kulim,Subdivision,Industrial,Flat,1.2,41.1,0.9,0.9,19,8.5,2747.21,Passed
+LS0620,2024-04-01,Sarawak,Sibu,Subdivision,Infrastructure,Rolling,13.48,148.1,12.8,4.4,19,11.2,3827.31,Passed
+LS0621,2025-08-08,Sarawak,Sibu,Construction Setting Out,Agricultural,Rolling,51.85,90.9,16.1,4.2,13,24.8,7754.58,Passed
+LS0622,2026-02-07,Kedah,Kulim,Cadastral,Forest,Hilly,53.58,355.5,26.5,5.5,12,26.7,8072.56,Review Required
+LS0623,2024-11-24,Penang,Barat Daya,As-Built,Commercial,Flat,11.55,68.5,1.7,4.7,19,9.1,3280.02,Passed
+LS0624,2025-07-08,Penang,Timur Laut,Cadastral,Agricultural,Rolling,42.08,145.3,4.9,2.2,18,17.8,6318.27,Passed
+LS0625,2024-11-01,Kedah,Kulim,Engineering,Residential,Flat,1.98,29.4,6.3,1.0,14,6.5,2308.98,Passed
+LS0626,2025-05-19,Selangor,Klang,Construction Setting Out,Agricultural,Rolling,25.25,83.1,16.0,0.9,14,17.0,5177.91,Passed
+LS0627,2025-07-21,Sarawak,Sibu,Engineering,Residential,Urban,3.92,50.8,3.0,0.8,11,9.9,2645.59,Passed
+LS0628,2025-01-17,Selangor,Klang,As-Built,Forest,Flat,74.81,78.7,1.0,1.1,30,29.2,10181.18,Passed
+LS0629,2024-03-02,Johor,Batu Pahat,As-Built,Industrial,Coastal,91.37,4.5,2.2,4.6,26,35.5,11593.99,Passed
+LS0630,2025-07-30,Kedah,Kota Setar,Subdivision,Industrial,Hilly,94.93,289.8,26.1,6.7,26,36.1,12083.23,Review Required
+LS0631,2024-11-21,Kedah,Langkawi,Subdivision,Residential,Flat,9.99,0,0.3,4.9,11,9.8,3257.55,Passed
+LS0632,2025-10-23,Sabah,Kota Kinabalu,Subdivision,Industrial,Hilly,26.66,283.7,23.6,3.7,17,15.0,5005.46,Passed
+LS0633,2025-10-26,Kuala Lumpur,Kuala Lumpur,Cadastral,Forest,Flat,17.31,26.4,0,3.0,18,12.6,4238.94,Passed
+LS0634,2026-04-11,Penang,Seberang Perai Tengah,Subdivision,Industrial,Urban,64.19,106.1,0.7,4.7,24,26.1,8918.14,Passed
+LS0635,2025-10-02,Penang,Barat Daya,Engineering,Commercial,Flat,5.42,51.9,2.1,2.0,15,7.3,2674.65,Passed
+LS0636,2025-02-09,Perak,Kinta,Construction Setting Out,Agricultural,Flat,4.46,47.5,0,3.6,4,4.9,1840.27,Passed
+LS0637,2024-03-07,Kedah,Kota Setar,Construction Setting Out,Commercial,Hilly,6.69,271.9,22.9,6.0,9,8.2,2427.28,Review Required
+LS0638,2024-01-03,Kedah,Kulim,Topographic,Infrastructure,Urban,69.52,122.1,3.1,0.8,21,28.8,9563.08,Passed
+LS0639,2026-06-24,Penang,Seberang Perai Tengah,Engineering,Industrial,Urban,80.37,64.8,2.7,3.2,30,31.7,10793.65,Passed
+LS0640,2025-12-07,Perak,Manjung,Construction Setting Out,Infrastructure,Flat,43.19,45.7,4.0,1.1,10,21.2,6436.23,Passed
+LS0641,2025-10-03,Selangor,Hulu Langat,Topographic,Commercial,Urban,4.05,73.9,7.9,0.8,17,10.9,3257.61,Passed
+LS0642,2025-09-26,Kedah,Kulim,Construction Setting Out,Commercial,Flat,11.51,0,4.8,3.2,12,12.5,3780.22,Passed
+LS0643,2026-04-01,Selangor,Hulu Langat,As-Built,Residential,Hilly,1.16,313.4,25.7,4.2,6,10.1,2424.02,Review Required
+LS0644,2025-02-24,Penang,Timur Laut,Subdivision,Industrial,Rolling,7.18,69.8,8.3,2.1,17,9.8,3195.48,Passed
+LS0645,2024-07-16,Penang,Timur Laut,Construction Setting Out,Industrial,Rolling,83.71,88.3,8.0,5.2,15,31.1,10170.6,Review Required
+LS0646,2026-01-12,Selangor,Klang,Subdivision,Residential,Flat,7.18,0,5.5,1.3,21,9.5,3189.46,Passed
+LS0647,2026-03-05,Kuala Lumpur,Kuala Lumpur,Topographic,Residential,Flat,0.87,79.7,0.8,5.3,15,6.4,2344.63,Review Required
+LS0648,2026-05-05,Johor,Kulai,As-Built,Agricultural,Rolling,28.36,102.2,13.6,3.9,12,13.8,4620.96,Passed
+LS0649,2025-09-06,Penang,Seberang Perai Tengah,Topographic,Commercial,Rolling,7.74,122.6,10.3,1.6,20,12.2,3904.85,Passed
+LS0650,2025-10-16,Sabah,Kota Kinabalu,As-Built,Agricultural,Urban,58.91,65.2,2.4,2.9,13,23.4,7877.2,Passed
+LS0651,2024-01-07,Perak,Manjung,Topographic,Commercial,Rolling,5.85,46.2,10.6,4.6,16,8.6,2712.4,Passed
+LS0652,2024-07-21,Penang,Barat Daya,Cadastral,Infrastructure,Flat,11.83,67.3,1.5,3.5,16,8.4,2864.73,Passed
+LS0653,2024-01-22,Johor,Kulai,Engineering,Forest,Flat,17.38,23.5,3.3,1.6,11,13.3,4196.72,Passed
+LS0654,2025-09-30,Johor,Batu Pahat,Cadastral,Agricultural,Rolling,88.99,134.4,9.2,4.6,21,36.2,11787.42,Passed
+LS0655,2025-08-24,Selangor,Petaling,Topographic,Commercial,Flat,2.42,68.5,0,3.6,11,9.2,2750.87,Passed
+LS0656,2025-04-26,Kedah,Langkawi,Engineering,Commercial,Coastal,0.78,0,4.7,4.8,19,7.0,2258.32,Passed
+LS0657,2026-09-05,Selangor,Hulu Langat,Construction Setting Out,Forest,Flat,71.61,75.1,0,1.6,25,28.9,9637.44,Passed
+LS0658,2024-08-11,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Forest,Flat,87.59,40.2,1.3,1.8,22,32.7,10816.03,Passed
+LS0659,2024-08-23,Sarawak,Sibu,As-Built,Commercial,Urban,11.24,86.5,1.3,1.3,7,8.0,2673.61,Passed
+LS0660,2025-03-28,Penang,Timur Laut,As-Built,Agricultural,Rolling,41.05,117.3,7.0,4.6,19,18.9,6128.49,Passed
+LS0661,2024-03-14,Kedah,Kulim,Engineering,Residential,Hilly,3.64,309.5,21.2,3.1,12,12.0,3086.24,Passed
+LS0662,2024-05-21,Penang,Seberang Perai Tengah,Engineering,Commercial,Rolling,8.15,167.9,10.0,4.4,13,8.5,2862.41,Passed
+LS0663,2026-02-18,Kedah,Kota Setar,Engineering,Agricultural,Flat,78.3,10.2,2.6,2.6,15,29.1,9647.16,Passed
+LS0664,2026-03-21,Sarawak,Kuching,Subdivision,Forest,Flat,20.73,91.3,2.4,3.4,20,15.1,4778.72,Passed
+LS0665,2026-08-23,Sabah,Sandakan,Construction Setting Out,Forest,Urban,40.26,80.8,0,0.8,13,18.4,5852.26,Passed
+LS0666,2026-03-15,Penang,Timur Laut,Subdivision,Agricultural,Rolling,32.94,135.9,6.0,2.6,17,16.4,5260.78,Passed
+LS0667,2025-07-01,Johor,Batu Pahat,Engineering,Infrastructure,Flat,60.2,16.1,0,4.9,24,24.0,8182.65,Passed
+LS0668,2025-05-15,Perak,Kinta,Engineering,Infrastructure,Rolling,91.42,87.1,8.4,1.5,22,32.4,11103.25,Passed
+LS0669,2026-05-30,Johor,Batu Pahat,Construction Setting Out,Agricultural,Flat,20.35,86.3,1.1,2.9,17,13.3,4217.93,Passed
+LS0670,2025-03-18,Sarawak,Sibu,Cadastral,Commercial,Flat,6.51,46.8,0.9,5.3,10,6.3,2131.19,Review Required
+LS0671,2026-04-24,Kuala Lumpur,Kuala Lumpur,As-Built,Agricultural,Flat,56.22,44.2,0,2.0,12,24.7,7783.03,Passed
+LS0672,2026-03-22,Perak,Manjung,As-Built,Industrial,Rolling,44.26,83.7,5.6,2.1,24,20.8,7101.98,Passed
+LS0673,2025-12-16,Sarawak,Kuching,Topographic,Industrial,Hilly,24.42,276.5,28.9,4.9,12,17.5,4975.35,Review Required
+LS0674,2026-02-19,Perak,Larut Matang,Topographic,Agricultural,Urban,83.96,42.8,0,1.0,21,33.6,10868.83,Passed
+LS0675,2024-03-15,Selangor,Klang,Cadastral,Residential,Urban,6.13,19.7,4.6,1.5,10,8.5,2624.83,Passed
+LS0676,2025-05-11,Kuala Lumpur,Kuala Lumpur,Subdivision,Industrial,Rolling,81.44,113.1,9.6,1.3,19,30.7,10297.45,Passed
+LS0677,2024-04-12,Selangor,Petaling,Subdivision,Commercial,Flat,8.61,60.1,0,2.0,10,7.0,2273.85,Passed
+LS0678,2024-02-05,Kedah,Langkawi,Subdivision,Industrial,Flat,16.83,40.4,1.8,2.0,20,12.1,3962.03,Passed
+LS0679,2025-09-04,Perak,Kinta,Cadastral,Forest,Rolling,77.28,67.0,7.0,5.0,27,32.5,10589.85,Passed
+LS0680,2025-11-16,Penang,Timur Laut,Topographic,Commercial,Coastal,4.59,23.3,3.1,2.7,4,6.0,1797.64,Passed
+LS0681,2025-10-01,Perak,Kinta,Cadastral,Forest,Urban,16.78,86.5,5.5,1.2,16,11.6,3903.47,Passed
+LS0682,2024-08-13,Sarawak,Kuching,Cadastral,Commercial,Urban,2.68,71.9,2.8,2.6,14,5.5,1953.17,Passed
+LS0683,2026-08-02,Kedah,Langkawi,Engineering,Residential,Hilly,0.95,339.1,25.5,5.6,7,9.8,2683.4,Review Required
+LS0684,2026-06-24,Johor,Kulai,Cadastral,Infrastructure,Flat,31.49,19.6,0,5.1,12,14.5,4933.22,Review Required
+LS0685,2025-08-24,Sabah,Sandakan,Subdivision,Industrial,Urban,7.35,63.5,10.6,2.9,21,12.0,3583.67,Passed
+LS0686,2024-07-25,Penang,Timur Laut,As-Built,Residential,Flat,3.81,0,1.6,3.7,5,4.8,1697.51,Passed
+LS0687,2026-03-16,Sarawak,Kuching,Cadastral,Commercial,Flat,11.09,0,0,4.2,15,8.3,2898.3,Passed
+LS0688,2024-09-11,Sarawak,Sibu,Engineering,Residential,Hilly,2.86,278.1,24.7,3.7,5,10.9,2852.62,Passed
+LS0689,2024-05-24,Perak,Kinta,Construction Setting Out,Infrastructure,Hilly,31.23,311.4,24.7,6.9,10,19.9,5624.0,Review Required
+LS0690,2024-09-07,Johor,Batu Pahat,As-Built,Infrastructure,Flat,79.13,34.3,4.0,1.1,29,31.1,10583.63,Passed
+LS0691,2025-02-11,Johor,Batu Pahat,Engineering,Agricultural,Hilly,55.18,305.3,27.0,6.8,26,25.2,8490.58,Review Required
+LS0692,2026-05-24,Johor,Johor Bahru,Construction Setting Out,Infrastructure,Rolling,58.28,118.3,8.4,5.3,27,23.9,8175.83,Review Required
+LS0693,2024-12-07,Kedah,Kota Setar,Topographic,Infrastructure,Hilly,69.3,349.0,24.8,4.9,25,31.2,9964.94,Passed
+LS0694,2025-01-17,Kuala Lumpur,Kuala Lumpur,Topographic,Residential,Flat,0.3,44.8,0,3.1,17,9.7,3029.3,Passed
+LS0695,2024-09-18,Kuala Lumpur,Kuala Lumpur,As-Built,Residential,Rolling,4.99,129.1,16.6,2.5,9,7.7,2386.6,Passed
+LS0696,2025-10-08,Kuala Lumpur,Kuala Lumpur,Engineering,Forest,Hilly,6.42,334.3,22.6,3.9,19,9.7,3287.39,Passed
+LS0697,2025-10-21,Johor,Kulai,Construction Setting Out,Forest,Flat,14.85,91.0,2.1,3.9,11,8.3,3109.59,Passed
+LS0698,2025-06-29,Sarawak,Sibu,As-Built,Residential,Rolling,6.29,144.0,11.2,4.7,12,10.5,3080.94,Passed
+LS0699,2024-08-02,Sarawak,Sibu,Subdivision,Industrial,Hilly,71.73,277.7,30.4,3.2,25,33.7,10444.77,Passed
+LS0700,2025-03-17,Sarawak,Kuching,Cadastral,Commercial,Hilly,9.82,310.1,26.1,6.0,21,13.3,3950.28,Review Required
+LS0701,2024-07-06,Johor,Johor Bahru,Subdivision,Commercial,Rolling,2.5,187.6,13.0,2.9,10,6.8,1996.59,Passed
+LS0702,2024-03-06,Kedah,Kulim,Construction Setting Out,Industrial,Urban,59.92,5.3,0,1.5,21,22.8,7746.51,Passed
+LS0703,2024-02-12,Penang,Timur Laut,Construction Setting Out,Industrial,Hilly,64.24,317.4,25.9,6.3,13,28.4,8973.76,Review Required
+LS0704,2024-12-10,Perak,Manjung,Cadastral,Industrial,Rolling,57.68,105.1,15.1,5.2,27,28.2,9035.31,Review Required
+LS0705,2026-06-10,Sabah,Sandakan,Topographic,Agricultural,Urban,63.52,63.3,3.3,2.4,23,28.1,8893.57,Passed
+LS0706,2025-11-05,Sarawak,Miri,Topographic,Residential,Coastal,7.28,0,4.7,4.1,12,8.4,2781.1,Passed
+LS0707,2025-11-25,Sarawak,Miri,Cadastral,Forest,Hilly,91.01,304.1,25.2,4.4,18,38.2,12049.75,Review Required
+LS0708,2026-07-15,Perak,Kinta,Construction Setting Out,Forest,Hilly,58.58,328.1,27.8,7.2,27,31.0,9692.2,Review Required
+LS0709,2024-03-30,Sarawak,Miri,Topographic,Forest,Flat,14.46,39.3,0,4.8,22,9.9,3631.99,Passed
+LS0710,2024-01-30,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Residential,Flat,5.86,38.4,0,1.5,6,5.2,2087.46,Passed
+LS0711,2025-05-18,Sabah,Kota Kinabalu,Engineering,Commercial,Urban,8.67,0,0.3,3.9,9,10.6,3156.56,Passed
+LS0712,2026-09-16,Sabah,Penampang,As-Built,Infrastructure,Urban,7.08,119.0,0.4,4.3,17,10.2,3332.39,Passed
+LS0713,2024-11-16,Perak,Manjung,Cadastral,Agricultural,Flat,9.24,75.5,6.2,5.2,8,9.5,2742.55,Review Required
+LS0714,2024-08-15,Penang,Timur Laut,As-Built,Infrastructure,Rolling,18.85,133.8,7.6,4.4,10,12.4,3936.35,Passed
+LS0715,2026-02-03,Sarawak,Sibu,Construction Setting Out,Agricultural,Flat,14.6,21.6,7.4,3.1,20,11.0,3691.56,Passed
+LS0716,2024-10-25,Penang,Seberang Perai Tengah,Engineering,Infrastructure,Hilly,94.09,393.2,32.3,6.1,32,40.5,12844.56,Review Required
+LS0717,2026-05-27,Sarawak,Miri,Engineering,Commercial,Flat,9.96,100.1,3.2,4.6,6,10.8,3208.74,Passed
+LS0718,2025-06-24,Sarawak,Sibu,Subdivision,Commercial,Flat,11.89,35.6,0,4.0,16,11.8,3640.81,Passed
+LS0719,2025-04-13,Kedah,Langkawi,Topographic,Forest,Flat,81.49,56.5,0.8,4.3,16,31.9,10409.92,Passed
+LS0720,2026-01-13,Johor,Kulai,Construction Setting Out,Forest,Hilly,46.35,295.5,26.6,6.6,16,24.3,7247.85,Review Required
+LS0721,2026-08-25,Selangor,Petaling,Topographic,Industrial,Hilly,90.34,339.7,19.8,7.1,19,34.5,11264.33,Review Required
+LS0722,2024-11-05,Selangor,Klang,Subdivision,Agricultural,Urban,56.78,45.7,8.1,2.6,13,21.6,7245.42,Passed
+LS0723,2025-01-11,Johor,Johor Bahru,Construction Setting Out,Forest,Hilly,94.17,296.7,24.4,4.9,29,37.4,12353.42,Passed
+LS0724,2026-03-24,Selangor,Klang,Cadastral,Industrial,Flat,61.29,31.4,3.8,3.5,27,25.5,8743.82,Passed
+LS0725,2025-02-07,Johor,Kulai,Subdivision,Forest,Rolling,41.76,103.1,8.8,1.0,14,19.1,6305.72,Passed
+LS0726,2024-07-03,Kuala Lumpur,Kuala Lumpur,As-Built,Infrastructure,Flat,68.09,27.6,2.4,4.3,16,25.0,8526.42,Passed
+LS0727,2024-11-01,Kuala Lumpur,Kuala Lumpur,Cadastral,Residential,Urban,1.68,75.0,4.5,3.4,5,4.2,1347.45,Passed
+LS0728,2025-08-13,Johor,Batu Pahat,Subdivision,Residential,Rolling,3.09,134.2,16.9,5.0,13,10.2,2900.75,Passed
+LS0729,2026-05-26,Sabah,Kota Kinabalu,Engineering,Infrastructure,Rolling,51.59,125.5,10.3,4.6,18,20.8,6937.45,Passed
+LS0730,2024-06-16,Johor,Batu Pahat,Topographic,Infrastructure,Hilly,34.75,345.3,27.9,3.1,16,18.8,5999.41,Passed
+LS0731,2024-07-16,Kuala Lumpur,Kuala Lumpur,Engineering,Forest,Flat,40.98,4.2,0.7,1.0,17,21.4,6792.88,Passed
+LS0732,2025-12-01,Johor,Kulai,Topographic,Agricultural,Rolling,94.29,113.2,9.4,3.6,19,34.0,11360.77,Passed
+LS0733,2026-09-19,Sarawak,Kuching,Subdivision,Residential,Flat,4.45,69.2,0.8,4.9,11,6.6,2089.08,Passed
+LS0734,2026-06-05,Sarawak,Miri,Cadastral,Commercial,Urban,6.39,22.1,6.8,4.6,7,8.4,2616.56,Passed
+LS0735,2024-01-10,Kedah,Langkawi,Cadastral,Commercial,Hilly,3.92,287.9,25.0,6.6,16,11.0,3052.67,Review Required
+LS0736,2025-09-15,Johor,Batu Pahat,Topographic,Industrial,Hilly,54.35,387.9,24.3,5.8,22,27.2,8408.34,Review Required
+LS0737,2026-08-28,Kuala Lumpur,Kuala Lumpur,Engineering,Industrial,Flat,48.21,81.5,1.5,5.2,17,20.1,6920.49,Review Required
+LS0738,2026-08-09,Sarawak,Miri,Cadastral,Forest,Coastal,8.47,0,2.1,1.5,6,6.0,2062.08,Passed
+LS0739,2026-07-21,Penang,Seberang Perai Tengah,Construction Setting Out,Forest,Urban,48.82,15.3,3.6,3.2,13,20.3,6758.45,Passed
+LS0740,2025-04-04,Penang,Timur Laut,Subdivision,Infrastructure,Coastal,71.47,65.3,3.2,5.3,30,30.9,9985.18,Review Required
+LS0741,2025-11-26,Perak,Kinta,Engineering,Commercial,Flat,6.24,34.2,5.0,2.5,15,11.7,3331.76,Passed
+LS0742,2025-06-11,Selangor,Petaling,Construction Setting Out,Agricultural,Flat,25.89,45.7,6.2,2.6,16,17.3,5473.53,Passed
+LS0743,2025-02-15,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Residential,Urban,4.37,34.3,2.0,2.4,4,5.9,1982.01,Passed
+LS0744,2024-09-13,Penang,Timur Laut,Construction Setting Out,Commercial,Flat,1.15,43.2,0.3,1.3,19,5.6,2290.08,Passed
+LS0745,2024-05-23,Kuala Lumpur,Kuala Lumpur,Engineering,Agricultural,Rolling,41.26,168.2,12.3,1.2,23,22.1,7023.16,Passed
+LS0746,2024-07-22,Sarawak,Miri,Subdivision,Commercial,Flat,1.46,63.3,1.7,2.7,14,9.5,2620.95,Passed
+LS0747,2026-05-13,Kedah,Kulim,Construction Setting Out,Infrastructure,Flat,47.58,28.4,1.3,4.3,22,21.7,7376.28,Passed
+LS0748,2026-09-26,Johor,Kulai,Cadastral,Residential,Flat,1.64,49.8,1.7,4.0,5,6.9,1932.24,Passed
+LS0749,2024-04-27,Penang,Barat Daya,Engineering,Agricultural,Rolling,46.68,83.7,10.2,1.4,26,21.5,7172.52,Passed
+LS0750,2025-10-06,Perak,Larut Matang,Construction Setting Out,Commercial,Hilly,5.77,294.0,25.3,6.2,9,8.9,2808.79,Review Required
+LS0751,2025-02-21,Johor,Kulai,Topographic,Industrial,Flat,4.61,40.1,8.9,2.7,10,6.4,2008.0,Passed
+LS0752,2026-08-23,Kedah,Kulim,Topographic,Commercial,Coastal,4.13,13.4,0,3.8,13,5.9,2116.39,Passed
+LS0753,2025-03-17,Sarawak,Kuching,Cadastral,Commercial,Flat,0.63,63.6,6.7,1.7,19,7.5,2554.57,Passed
+LS0754,2025-01-05,Kedah,Langkawi,Engineering,Agricultural,Urban,29.61,58.3,4.4,3.3,12,14.5,4896.64,Passed
+LS0755,2026-06-24,Sabah,Sandakan,Engineering,Commercial,Flat,7.07,53.6,3.2,3.7,8,5.9,2321.77,Passed
+LS0756,2024-05-10,Perak,Kinta,Construction Setting Out,Residential,Flat,1.04,35.7,0,4.2,10,6.7,1954.65,Passed
+LS0757,2026-08-11,Sarawak,Sibu,Engineering,Infrastructure,Hilly,92.66,286.6,27.6,6.1,30,36.4,12043.32,Review Required
+LS0758,2025-12-02,Penang,Seberang Perai Tengah,Engineering,Forest,Flat,91.94,129.7,0.2,1.0,23,35.4,11595.48,Passed
+LS0759,2025-12-14,Selangor,Petaling,As-Built,Industrial,Flat,53.87,75.4,0,1.7,11,19.8,6654.66,Passed
+LS0760,2024-08-31,Kuala Lumpur,Kuala Lumpur,Subdivision,Infrastructure,Rolling,25.33,86.5,11.5,2.0,10,12.9,4078.6,Passed
+LS0761,2024-12-21,Penang,Seberang Perai Tengah,Engineering,Commercial,Hilly,3.35,261.4,26.1,3.9,10,10.2,2638.26,Review Required
+LS0762,2024-12-30,Sabah,Kota Kinabalu,Subdivision,Infrastructure,Rolling,25.82,165.7,14.3,2.1,8,15.3,4465.1,Passed
+LS0763,2025-10-03,Kedah,Langkawi,Cadastral,Infrastructure,Flat,62.79,0,6.8,3.5,24,29.1,9181.62,Passed
+LS0764,2025-03-20,Perak,Manjung,Topographic,Agricultural,Urban,26.27,23.8,0,4.3,11,13.5,4534.76,Passed
+LS0765,2024-10-15,Johor,Johor Bahru,Cadastral,Industrial,Urban,18.06,119.0,6.4,1.6,21,16.0,4752.68,Passed
+LS0766,2024-04-12,Kedah,Langkawi,Topographic,Industrial,Flat,65.61,63.0,2.6,2.7,27,29.8,9810.77,Passed
+LS0767,2024-10-01,Johor,Johor Bahru,Cadastral,Infrastructure,Coastal,10.37,19.3,1.9,0.8,6,6.8,2483.59,Passed
+LS0768,2025-03-30,Penang,Timur Laut,Cadastral,Residential,Coastal,6.58,0,5.4,1.1,8,8.2,2564.5,Passed
+LS0769,2025-06-07,Kedah,Kulim,Topographic,Commercial,Rolling,0.81,64.0,8.5,1.3,5,4.5,1435.22,Passed
+LS0770,2026-07-12,Johor,Johor Bahru,Topographic,Residential,Flat,2.84,66.6,0,2.1,16,8.9,2853.72,Passed
+LS0771,2024-03-27,Kuala Lumpur,Kuala Lumpur,Cadastral,Commercial,Flat,1.36,36.0,4.7,3.7,7,5.9,2032.5,Passed
+LS0772,2026-06-15,Johor,Johor Bahru,As-Built,Agricultural,Flat,57.36,27.0,1.3,3.9,21,24.9,8092.42,Passed
+LS0773,2026-03-07,Kedah,Langkawi,Subdivision,Agricultural,Urban,88.69,3.8,5.8,1.1,16,34.5,11300.7,Passed
+LS0774,2024-04-02,Johor,Batu Pahat,Construction Setting Out,Industrial,Rolling,68.81,71.1,10.8,1.0,26,31.7,9987.91,Passed
+LS0775,2026-08-01,Johor,Johor Bahru,Construction Setting Out,Agricultural,Flat,31.02,69.8,0,2.7,18,14.4,5210.45,Passed
+LS0776,2026-04-10,Sarawak,Sibu,Construction Setting Out,Infrastructure,Rolling,51.17,96.8,4.5,2.5,24,23.5,7865.28,Passed
+LS0777,2024-12-23,Perak,Manjung,Topographic,Agricultural,Coastal,1.27,7.8,3.6,3.4,8,8.7,2232.67,Passed
+LS0778,2025-12-13,Johor,Kulai,Topographic,Infrastructure,Flat,92.35,31.4,3.9,4.7,18,35.1,11285.09,Passed
+LS0779,2024-06-10,Johor,Johor Bahru,Cadastral,Forest,Rolling,91.7,149.3,6.8,3.9,19,34.0,11276.97,Passed
+LS0780,2025-06-24,Johor,Kulai,Cadastral,Commercial,Rolling,1.06,83.0,5.0,1.4,9,6.7,1918.06,Passed
+LS0781,2026-02-08,Kedah,Kota Setar,Subdivision,Agricultural,Rolling,42.73,105.5,9.7,1.2,11,21.3,6390.01,Passed
+LS0782,2026-08-11,Johor,Johor Bahru,Construction Setting Out,Forest,Flat,90.13,60.6,0,1.9,32,34.2,11517.39,Passed
+LS0783,2026-09-26,Kedah,Langkawi,As-Built,Industrial,Urban,92.93,72.1,5.5,3.7,24,34.7,11709.56,Passed
+LS0784,2024-04-21,Selangor,Petaling,Construction Setting Out,Industrial,Urban,30.44,4.0,0.5,1.5,19,17.0,5399.37,Passed
+LS0785,2025-07-18,Selangor,Petaling,Engineering,Residential,Rolling,2.99,124.2,10.7,1.7,4,8.5,2239.73,Passed
+LS0786,2024-12-31,Penang,Barat Daya,Cadastral,Infrastructure,Flat,54.09,20.9,0,0.9,21,21.2,7279.22,Passed
+LS0787,2025-05-29,Sarawak,Kuching,Engineering,Industrial,Rolling,69.21,101.1,14.6,1.2,26,31.9,10131.75,Passed
+LS0788,2026-09-02,Penang,Seberang Perai Tengah,Construction Setting Out,Industrial,Hilly,56.12,286.8,26.5,3.4,26,25.4,8428.42,Passed
+LS0789,2026-03-15,Perak,Kinta,Subdivision,Forest,Urban,14.24,0,2.1,3.1,22,14.6,4429.65,Passed
+LS0790,2025-05-24,Sabah,Kota Kinabalu,As-Built,Industrial,Flat,4.76,0,0.9,1.8,6,9.2,2610.68,Passed
+LS0791,2024-06-14,Penang,Timur Laut,Engineering,Infrastructure,Flat,82.55,0,3.9,3.1,29,32.0,10978.72,Passed
+LS0792,2026-08-04,Kedah,Kota Setar,Engineering,Residential,Hilly,0.99,272.3,24.2,7.4,12,10.8,2890.4,Review Required
+LS0793,2025-10-01,Selangor,Hulu Langat,Construction Setting Out,Residential,Urban,4.46,90.0,3.3,3.7,8,7.2,2270.31,Passed
+LS0794,2026-04-20,Sabah,Sandakan,Construction Setting Out,Infrastructure,Flat,43.31,0,8.6,0.9,11,20.6,6369.95,Passed
+LS0795,2025-04-24,Penang,Seberang Perai Tengah,Cadastral,Agricultural,Flat,36.33,15.7,0,1.8,23,19.4,6280.44,Passed
+LS0796,2025-09-10,Kuala Lumpur,Kuala Lumpur,Topographic,Forest,Flat,11.18,36.1,4.9,2.8,17,10.2,3317.47,Passed
+LS0797,2025-09-07,Perak,Manjung,Construction Setting Out,Residential,Coastal,3.45,12.9,4.7,3.0,10,6.8,2025.43,Passed
+LS0798,2024-03-26,Penang,Timur Laut,Engineering,Industrial,Urban,92.98,78.5,4.5,0.8,30,35.0,11884.43,Passed
+LS0799,2026-07-05,Selangor,Hulu Langat,Cadastral,Agricultural,Flat,83.13,56.0,0,1.7,23,30.1,10107.46,Passed
+LS0800,2026-07-23,Sabah,Sandakan,Engineering,Commercial,Urban,2.5,40.7,7.2,3.3,9,9.8,2670.71,Passed
+LS0801,2026-08-14,Sarawak,Kuching,As-Built,Infrastructure,Urban,19.66,9.7,3.3,1.4,16,10.7,3965.82,Passed
+LS0802,2025-08-15,Kuala Lumpur,Kuala Lumpur,Cadastral,Forest,Urban,39.2,54.6,3.7,2.9,13,18.8,6085.97,Passed
+LS0803,2025-08-13,Penang,Timur Laut,Topographic,Industrial,Flat,66.47,0,2.6,1.7,19,28.9,9424.94,Passed
+LS0804,2026-04-28,Sabah,Sandakan,Cadastral,Agricultural,Urban,85.29,54.1,0,4.1,30,33.1,11096.37,Passed
+LS0805,2026-05-15,Sarawak,Sibu,Engineering,Residential,Rolling,11.13,118.7,7.2,3.4,10,10.3,3135.59,Passed
+LS0806,2026-08-12,Sarawak,Miri,Subdivision,Infrastructure,Hilly,89.16,301.1,26.1,3.1,19,33.5,10846.79,Passed
+LS0807,2026-03-06,Selangor,Hulu Langat,As-Built,Infrastructure,Rolling,10.37,125.9,6.3,0.9,14,12.2,3515.29,Passed
+LS0808,2024-08-17,Sarawak,Sibu,Construction Setting Out,Residential,Flat,4.3,7.4,2.9,5.1,16,6.3,2297.96,Review Required
+LS0809,2024-01-16,Kedah,Kota Setar,Subdivision,Agricultural,Flat,29.9,1.0,7.4,3.9,8,17.0,5112.62,Passed
+LS0810,2025-09-23,Johor,Kulai,As-Built,Forest,Coastal,57.39,84.2,0,5.5,19,24.1,7923.42,Review Required
+LS0811,2024-04-11,Sarawak,Sibu,As-Built,Industrial,Urban,13.11,0,0,1.5,15,10.8,3493.58,Passed
+LS0812,2024-04-05,Johor,Johor Bahru,Subdivision,Infrastructure,Rolling,74.72,69.0,12.3,1.9,19,32.2,10074.75,Passed
+LS0813,2025-04-09,Sarawak,Sibu,As-Built,Commercial,Flat,0.48,0,0.2,1.1,16,5.0,2040.83,Passed
+LS0814,2024-10-08,Sabah,Kota Kinabalu,Subdivision,Commercial,Flat,3.67,39.2,0,4.4,16,9.6,2995.84,Passed
+LS0815,2024-04-05,Johor,Johor Bahru,Subdivision,Infrastructure,Hilly,82.49,361.4,30.3,3.3,19,33.1,10843.92,Passed
+LS0816,2026-06-30,Kuala Lumpur,Kuala Lumpur,Topographic,Industrial,Urban,10.46,20.3,4.9,3.0,7,7.7,2545.78,Passed
+LS0817,2024-12-21,Kuala Lumpur,Kuala Lumpur,Topographic,Agricultural,Urban,1.95,95.8,5.7,3.6,5,4.6,1520.02,Passed
+LS0818,2025-01-08,Penang,Timur Laut,Subdivision,Agricultural,Flat,88.1,53.0,2.3,0.8,32,36.2,11797.72,Passed
+LS0819,2025-07-18,Perak,Larut Matang,Topographic,Commercial,Flat,1.14,28.0,1.4,2.0,10,8.9,2443.8,Passed
+LS0820,2026-03-23,Kedah,Langkawi,Construction Setting Out,Industrial,Rolling,49.19,123.5,8.4,1.5,19,24.7,7574.64,Passed
+LS0821,2025-03-15,Kedah,Kota Setar,Topographic,Forest,Flat,46.86,20.3,4.3,4.3,20,22.1,7229.54,Passed
+LS0822,2025-10-22,Sabah,Sandakan,Subdivision,Residential,Rolling,5.48,53.6,15.8,1.9,17,9.6,3170.83,Passed
+LS0823,2026-03-09,Sabah,Penampang,Cadastral,Commercial,Rolling,9.74,119.6,8.3,1.9,11,10.8,3197.87,Passed
+LS0824,2025-09-08,Selangor,Petaling,Subdivision,Residential,Flat,8.64,89.1,2.9,2.2,12,9.6,2967.12,Passed
+LS0825,2026-04-12,Perak,Manjung,Engineering,Forest,Flat,58.14,0,6.4,1.1,25,26.6,8626.96,Passed
+LS0826,2024-01-22,Perak,Manjung,Construction Setting Out,Industrial,Flat,5.4,62.4,1.8,2.9,14,9.0,2724.37,Passed
+LS0827,2024-03-12,Penang,Barat Daya,As-Built,Residential,Hilly,10.95,375.6,23.8,4.6,21,11.4,3788.81,Passed
+LS0828,2024-11-01,Selangor,Klang,Construction Setting Out,Forest,Urban,29.29,84.4,2.9,1.1,18,16.0,5075.01,Passed
+LS0829,2026-06-01,Kuala Lumpur,Kuala Lumpur,Subdivision,Residential,Rolling,10.14,103.8,11.3,1.8,5,7.6,2679.3,Passed
+LS0830,2024-04-23,Perak,Kinta,Topographic,Forest,Flat,85.81,100.5,0,5.4,17,30.2,10339.0,Review Required
+LS0831,2024-11-22,Kedah,Kota Setar,Engineering,Forest,Flat,58.6,19.3,2.9,1.5,16,24.4,7825.16,Passed
+LS0832,2024-08-19,Sarawak,Kuching,Subdivision,Residential,Hilly,6.33,349.8,25.2,5.1,12,10.2,3119.21,Review Required
+LS0833,2025-05-21,Kedah,Kota Setar,Subdivision,Residential,Coastal,4.33,0,4.1,3.8,10,8.8,2449.92,Passed
+LS0834,2026-08-25,Perak,Manjung,Topographic,Industrial,Flat,77.94,60.2,2.5,1.7,31,31.9,10582.32,Passed
+LS0835,2024-03-11,Kuala Lumpur,Kuala Lumpur,As-Built,Residential,Hilly,10.98,342.6,25.6,7.4,21,12.5,3895.74,Review Required
+LS0836,2024-09-30,Sarawak,Kuching,Engineering,Infrastructure,Flat,61.95,102.2,5.7,4.3,19,23.3,7994.74,Passed
+LS0837,2024-12-07,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Agricultural,Hilly,25.96,303.5,26.1,4.8,11,16.0,4864.66,Review Required
+LS0838,2025-09-14,Kuala Lumpur,Kuala Lumpur,Cadastral,Residential,Flat,7.84,8.6,1.6,2.1,17,8.1,2772.15,Passed
+LS0839,2024-10-09,Sarawak,Kuching,Cadastral,Forest,Flat,24.4,56.1,3.1,5.0,15,12.9,4394.15,Passed
+LS0840,2025-09-02,Sarawak,Miri,Cadastral,Commercial,Rolling,8.85,91.0,11.7,1.7,11,9.4,2867.9,Passed
+LS0841,2024-07-10,Penang,Barat Daya,As-Built,Forest,Flat,59.48,0,1.6,4.0,17,23.3,7670.44,Passed
+LS0842,2024-01-10,Kuala Lumpur,Kuala Lumpur,Cadastral,Forest,Flat,45.61,63.9,1.1,2.0,12,17.8,6186.72,Passed
+LS0843,2024-06-20,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Commercial,Hilly,5.75,311.8,25.5,6.0,13,12.8,3525.61,Review Required
+LS0844,2026-04-27,Selangor,Hulu Langat,Subdivision,Agricultural,Flat,43.55,0,1.1,1.9,25,19.8,6765.6,Passed
+LS0845,2025-02-24,Kedah,Kota Setar,As-Built,Forest,Coastal,81.55,0,6.3,1.2,31,34.4,11079.39,Passed
+LS0846,2025-10-16,Johor,Johor Bahru,Cadastral,Commercial,Rolling,6.99,75.0,8.9,1.7,6,6.9,2434.01,Passed
+LS0847,2024-12-05,Kedah,Kulim,Subdivision,Infrastructure,Urban,85.53,82.6,0,3.2,24,34.6,11190.8,Passed
+LS0848,2026-09-18,Sarawak,Miri,Engineering,Agricultural,Urban,18.91,28.9,0,4.7,9,11.0,3589.23,Passed
+LS0849,2024-11-06,Kedah,Kulim,Cadastral,Industrial,Flat,88.16,87.2,4.7,3.2,25,34.6,11459.45,Passed
+LS0850,2025-11-07,Kedah,Kota Setar,Engineering,Residential,Flat,5.53,109.0,3.1,1.3,19,8.6,2893.39,Passed
+LS0851,2026-01-20,Penang,Timur Laut,Engineering,Agricultural,Flat,74.81,43.9,0,3.4,16,29.2,9403.08,Passed
+LS0852,2024-04-10,Sarawak,Miri,Cadastral,Agricultural,Hilly,21.57,315.5,22.2,6.6,19,15.8,5113.7,Review Required
+LS0853,2024-07-23,Kedah,Kulim,Topographic,Infrastructure,Hilly,41.97,265.6,28.9,3.4,15,20.7,6528.76,Passed
+LS0854,2024-11-16,Kedah,Langkawi,As-Built,Forest,Flat,44.35,100.8,4.1,4.7,13,17.8,6038.46,Passed
+LS0855,2026-07-17,Sabah,Penampang,Construction Setting Out,Industrial,Rolling,40.53,114.4,9.4,3.4,22,18.6,6193.49,Passed
+LS0856,2025-04-18,Perak,Larut Matang,Engineering,Commercial,Hilly,7.51,267.8,30.0,3.0,17,10.9,3433.95,Passed
+LS0857,2026-06-04,Kuala Lumpur,Kuala Lumpur,Cadastral,Residential,Urban,3.35,53.6,5.4,3.6,13,8.6,2713.94,Passed
+LS0858,2025-10-17,Selangor,Petaling,Subdivision,Infrastructure,Coastal,70.5,15.8,4.9,1.4,29,27.9,9698.52,Passed
+LS0859,2024-04-09,Kedah,Kota Setar,Subdivision,Residential,Hilly,9.7,293.6,23.6,3.0,9,11.9,3235.31,Passed
+LS0860,2025-07-13,Perak,Manjung,Cadastral,Infrastructure,Flat,42.72,51.1,3.4,2.6,15,21.0,6785.93,Passed
+LS0861,2025-07-13,Kuala Lumpur,Kuala Lumpur,As-Built,Residential,Urban,5.27,38.1,2.7,4.6,11,6.5,2362.51,Passed
+LS0862,2025-03-02,Kuala Lumpur,Kuala Lumpur,Engineering,Forest,Rolling,10.4,92.3,7.6,2.0,17,12.1,3552.23,Passed
+LS0863,2026-09-12,Johor,Johor Bahru,Construction Setting Out,Residential,Flat,6.84,47.1,4.5,3.8,18,7.7,2940.6,Passed
+LS0864,2025-02-03,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Agricultural,Urban,1.86,89.6,5.9,4.8,10,6.6,2191.61,Passed
+LS0865,2026-08-03,Johor,Batu Pahat,Engineering,Forest,Hilly,68.61,357.0,22.5,6.5,21,31.2,9879.0,Review Required
+LS0866,2024-05-12,Selangor,Klang,Subdivision,Industrial,Urban,36.39,64.1,0,3.5,25,20.3,6584.05,Passed
+LS0867,2025-05-26,Sabah,Sandakan,As-Built,Agricultural,Hilly,55.94,298.5,25.5,2.8,16,24.3,7913.08,Passed
+LS0868,2024-03-06,Kuala Lumpur,Kuala Lumpur,Topographic,Forest,Rolling,75.79,154.4,14.9,4.2,26,33.1,10596.7,Passed
+LS0869,2025-01-21,Kedah,Kota Setar,Subdivision,Residential,Flat,5.38,80.1,0,0.8,9,6.6,2304.45,Passed
+LS0870,2025-08-19,Perak,Kinta,Construction Setting Out,Industrial,Flat,64.81,101.9,2.8,2.8,29,29.4,9455.94,Passed
+LS0871,2026-01-15,Selangor,Klang,Topographic,Residential,Flat,4.41,69.0,0,1.0,9,8.2,2663.32,Passed
+LS0872,2025-10-02,Kuala Lumpur,Kuala Lumpur,Topographic,Infrastructure,Flat,78.79,44.8,0,5.0,19,31.3,10173.23,Passed
+LS0873,2024-10-23,Selangor,Hulu Langat,Topographic,Infrastructure,Hilly,29.03,327.1,26.6,5.6,18,16.2,5410.79,Review Required
+LS0874,2025-07-13,Sarawak,Sibu,Cadastral,Commercial,Coastal,11.62,28.7,6.5,4.8,21,11.1,3751.0,Passed
+LS0875,2026-01-21,Selangor,Hulu Langat,Engineering,Forest,Hilly,3.82,333.2,23.8,4.3,5,7.2,2161.27,Passed
+LS0876,2025-09-19,Penang,Timur Laut,Cadastral,Infrastructure,Flat,86.01,0,0.5,0.9,18,33.9,10989.18,Passed
+LS0877,2026-06-16,Kuala Lumpur,Kuala Lumpur,Engineering,Forest,Urban,4.92,64.2,7.5,3.8,17,9.5,3110.76,Passed
+LS0878,2025-12-13,Penang,Timur Laut,Cadastral,Commercial,Urban,6.48,14.2,6.9,4.2,19,8.1,2974.93,Passed
+LS0879,2024-02-29,Sarawak,Kuching,As-Built,Commercial,Coastal,1.52,40.7,6.1,5.0,15,6.6,2229.45,Passed
+LS0880,2026-01-07,Perak,Kinta,Cadastral,Commercial,Flat,5.04,0,2.1,3.3,5,9.4,2406.64,Passed
+LS0881,2025-02-11,Penang,Barat Daya,Topographic,Industrial,Flat,17.98,53.8,4.7,3.8,13,14.8,4251.05,Passed
+LS0882,2025-01-10,Selangor,Klang,Cadastral,Agricultural,Hilly,89.21,362.6,26.3,6.6,23,36.0,11553.91,Review Required
+LS0883,2025-09-28,Kedah,Kulim,Topographic,Infrastructure,Urban,84.94,94.7,2.4,1.2,27,35.1,11497.18,Passed
+LS0884,2025-03-26,Kedah,Langkawi,Topographic,Infrastructure,Flat,22.67,20.9,1.9,2.5,11,10.6,3649.18,Passed
+LS0885,2025-01-28,Kuala Lumpur,Kuala Lumpur,Cadastral,Industrial,Urban,79.61,101.2,3.5,2.1,17,27.9,9680.95,Passed
+LS0886,2026-02-20,Penang,Barat Daya,Construction Setting Out,Industrial,Urban,5.18,76.5,4.5,2.8,5,8.1,2178.58,Passed
+LS0887,2026-08-08,Penang,Seberang Perai Tengah,Engineering,Agricultural,Urban,77.16,23.1,0,2.3,28,32.7,10789.27,Passed
+LS0888,2026-02-26,Penang,Seberang Perai Tengah,As-Built,Industrial,Urban,90.53,43.1,6.3,5.5,30,35.3,11870.45,Review Required
+LS0889,2025-07-09,Kedah,Kulim,Construction Setting Out,Industrial,Flat,71.09,36.5,3.4,0.8,22,26.4,8963.75,Passed
+LS0890,2024-11-24,Sabah,Penampang,Cadastral,Infrastructure,Hilly,26.78,336.4,24.7,5.8,7,14.0,4456.14,Review Required
+LS0891,2024-03-22,Johor,Batu Pahat,Cadastral,Industrial,Rolling,1.83,117.6,12.8,3.8,10,7.7,2343.19,Passed
+LS0892,2025-09-24,Sabah,Sandakan,Construction Setting Out,Commercial,Urban,3.21,28.6,4.5,3.1,11,8.4,2389.58,Passed
+LS0893,2024-09-22,Penang,Barat Daya,Subdivision,Residential,Flat,2.33,43.4,0,2.2,11,4.8,1913.68,Passed
+LS0894,2024-07-27,Penang,Barat Daya,Engineering,Infrastructure,Hilly,68.52,290.8,22.8,3.1,27,28.8,9390.82,Passed
+LS0895,2025-10-29,Sabah,Penampang,Subdivision,Industrial,Urban,7.71,67.7,1.8,0.8,16,8.8,2917.08,Passed
+LS0896,2024-11-16,Kuala Lumpur,Kuala Lumpur,Engineering,Infrastructure,Urban,3.93,76.4,2.3,1.4,4,4.6,1518.65,Passed
+LS0897,2025-08-01,Perak,Larut Matang,As-Built,Residential,Rolling,7.94,158.0,13.0,3.8,7,11.6,3390.41,Passed
+LS0898,2024-10-27,Sarawak,Kuching,Cadastral,Infrastructure,Rolling,76.03,78.0,6.6,3.2,24,29.4,10024.66,Passed
+LS0899,2025-06-01,Sabah,Kota Kinabalu,Engineering,Commercial,Flat,5.55,27.7,2.0,1.9,17,8.5,2780.39,Passed
+LS0900,2026-07-20,Sabah,Penampang,As-Built,Commercial,Hilly,5.47,332.2,21.6,6.7,8,11.9,3075.22,Review Required
+LS0901,2026-07-10,Johor,Johor Bahru,Engineering,Agricultural,Hilly,30.5,327.9,27.7,7.4,23,20.7,6445.56,Review Required
+LS0902,2024-01-25,Kuala Lumpur,Kuala Lumpur,Cadastral,Industrial,Flat,25.76,17.9,0,4.3,11,15.4,4906.46,Passed
+LS0903,2026-07-08,Selangor,Hulu Langat,As-Built,Industrial,Flat,86.0,73.1,0.1,3.4,25,30.9,10777.47,Passed
+LS0904,2026-02-14,Selangor,Hulu Langat,Cadastral,Residential,Urban,8.9,85.2,2.0,2.7,19,11.6,3592.08,Passed
+LS0905,2024-11-24,Johor,Batu Pahat,Subdivision,Infrastructure,Coastal,87.14,2.3,4.2,5.0,27,34.8,11433.29,Passed
+LS0906,2026-05-14,Johor,Batu Pahat,As-Built,Agricultural,Rolling,89.81,126.8,12.1,2.3,32,38.4,12421.95,Passed
+LS0907,2026-06-19,Kedah,Langkawi,Engineering,Commercial,Rolling,11.45,132.0,17.0,4.9,11,11.1,3287.7,Passed
+LS0908,2025-09-12,Sabah,Kota Kinabalu,Engineering,Commercial,Flat,1.55,82.2,1.5,4.9,13,9.5,2632.37,Passed
+LS0909,2026-03-29,Perak,Kinta,Topographic,Residential,Hilly,2.6,260.2,27.7,2.8,5,11.4,2884.13,Passed
+LS0910,2026-07-29,Penang,Timur Laut,Cadastral,Agricultural,Rolling,20.1,93.7,13.6,4.2,22,13.5,4517.24,Passed
+LS0911,2026-02-01,Selangor,Petaling,Construction Setting Out,Industrial,Rolling,25.73,27.0,16.2,4.2,10,17.5,5249.62,Passed
+LS0912,2024-04-12,Selangor,Klang,As-Built,Agricultural,Rolling,26.95,79.3,7.5,4.4,17,17.7,5255.74,Passed
+LS0913,2026-08-23,Sabah,Kota Kinabalu,As-Built,Forest,Flat,79.74,0,0,3.7,22,28.8,9821.56,Passed
+LS0914,2026-02-06,Perak,Kinta,Topographic,Industrial,Flat,77.5,16.6,1.7,1.7,17,31.5,10259.36,Passed
+LS0915,2024-12-23,Penang,Barat Daya,Construction Setting Out,Infrastructure,Rolling,58.45,100.5,9.8,4.0,24,26.7,8546.29,Passed
+LS0916,2026-09-13,Johor,Batu Pahat,Topographic,Agricultural,Urban,63.79,58.0,0,3.6,28,26.1,8781.25,Passed
+LS0917,2024-05-11,Sarawak,Miri,Engineering,Commercial,Urban,8.0,81.0,6.5,2.2,8,8.1,2539.74,Passed
+LS0918,2024-09-24,Kuala Lumpur,Kuala Lumpur,Subdivision,Commercial,Hilly,0.49,334.2,24.8,6.8,17,8.1,2661.8,Review Required
+LS0919,2025-04-03,Sarawak,Miri,Construction Setting Out,Industrial,Rolling,38.48,95.5,12.0,4.2,19,20.5,6324.91,Passed
+LS0920,2026-08-31,Perak,Larut Matang,Topographic,Infrastructure,Hilly,20.38,249.7,19.9,5.6,16,13.3,4334.37,Review Required
+LS0921,2024-07-22,Penang,Timur Laut,Cadastral,Forest,Urban,32.33,102.7,0.9,1.0,9,15.3,4911.2,Passed
+LS0922,2024-01-21,Sarawak,Sibu,Topographic,Agricultural,Urban,76.32,38.3,6.3,1.7,21,32.3,10157.37,Passed
+LS0923,2026-04-12,Selangor,Hulu Langat,Construction Setting Out,Residential,Rolling,2.01,134.0,9.3,4.4,11,5.6,2062.39,Passed
+LS0924,2025-07-08,Sarawak,Sibu,Subdivision,Agricultural,Flat,82.03,64.2,5.2,4.1,28,30.4,10552.32,Passed
+LS0925,2025-04-14,Johor,Johor Bahru,As-Built,Industrial,Flat,19.26,26.3,0,2.3,22,14.9,4680.28,Passed
+LS0926,2025-06-30,Selangor,Klang,Subdivision,Infrastructure,Flat,45.31,60.0,1.7,5.3,18,20.4,6906.09,Review Required
+LS0927,2026-02-28,Perak,Kinta,Construction Setting Out,Forest,Rolling,38.0,141.6,7.4,1.2,16,19.1,5941.46,Passed
+LS0928,2026-08-22,Kuala Lumpur,Kuala Lumpur,As-Built,Residential,Rolling,7.77,165.4,7.3,5.4,8,9.1,2638.91,Review Required
+LS0929,2024-11-14,Perak,Larut Matang,Construction Setting Out,Infrastructure,Flat,79.78,35.2,0,4.4,16,30.9,9970.07,Passed
+LS0930,2025-07-12,Sabah,Penampang,Cadastral,Agricultural,Urban,65.77,13.8,0,2.0,19,27.4,9047.22,Passed
+LS0931,2024-03-20,Sabah,Penampang,Topographic,Agricultural,Urban,44.37,59.7,0.2,4.3,12,21.1,6611.32,Passed
+LS0932,2025-10-03,Johor,Kulai,Topographic,Infrastructure,Coastal,71.33,40.5,4.6,5.4,15,29.5,9421.43,Review Required
+LS0933,2025-01-15,Kuala Lumpur,Kuala Lumpur,As-Built,Industrial,Flat,38.54,80.8,1.1,2.1,17,18.4,6102.72,Passed
+LS0934,2026-08-07,Johor,Kulai,Subdivision,Commercial,Flat,9.66,35.0,4.8,3.6,20,10.9,3726.7,Passed
+LS0935,2025-12-11,Johor,Johor Bahru,Subdivision,Industrial,Flat,1.92,55.0,0.5,1.0,4,4.8,1461.71,Passed
+LS0936,2024-07-16,Kuala Lumpur,Kuala Lumpur,Cadastral,Infrastructure,Rolling,45.06,137.1,11.5,3.4,17,20.5,6524.67,Passed
+LS0937,2026-01-18,Kedah,Kota Setar,Construction Setting Out,Infrastructure,Urban,69.56,99.2,0.6,5.2,19,25.2,8542.49,Review Required
+LS0938,2025-09-22,Kedah,Langkawi,As-Built,Residential,Flat,1.65,38.0,0,2.5,12,9.3,2758.71,Passed
+LS0939,2024-03-20,Kuala Lumpur,Kuala Lumpur,Cadastral,Commercial,Flat,11.87,79.3,6.5,1.4,10,10.1,2977.14,Passed
+LS0940,2025-04-30,Johor,Batu Pahat,Construction Setting Out,Industrial,Rolling,63.5,146.5,8.4,1.3,25,26.8,8869.21,Passed
+LS0941,2025-07-27,Kedah,Kulim,Engineering,Infrastructure,Urban,8.35,40.1,2.4,1.5,13,10.4,3316.65,Passed
+LS0942,2024-12-20,Kuala Lumpur,Kuala Lumpur,Engineering,Forest,Hilly,12.3,280.0,28.5,3.6,16,15.6,4512.9,Review Required
+LS0943,2024-11-13,Perak,Manjung,Topographic,Industrial,Hilly,36.18,263.2,34.0,3.6,20,21.9,6503.31,Review Required
+LS0944,2025-12-22,Selangor,Hulu Langat,Engineering,Infrastructure,Urban,87.63,49.3,3.4,2.0,31,34.2,11687.76,Passed
+LS0945,2025-10-25,Kedah,Langkawi,As-Built,Residential,Hilly,10.38,257.2,34.2,5.7,20,12.9,4052.43,Review Required
+LS0946,2024-05-02,Selangor,Petaling,Cadastral,Infrastructure,Flat,85.06,91.9,4.8,4.9,20,30.2,10423.15,Passed
+LS0947,2026-07-10,Kuala Lumpur,Kuala Lumpur,Cadastral,Agricultural,Hilly,10.16,282.6,16.7,3.6,5,9.2,2847.52,Passed
+LS0948,2025-05-28,Johor,Johor Bahru,As-Built,Forest,Urban,89.76,46.5,0,2.6,17,30.3,10539.44,Passed
+LS0949,2024-04-30,Kedah,Kulim,Construction Setting Out,Residential,Flat,3.41,84.4,3.1,1.5,4,5.5,1802.94,Passed
+LS0950,2026-09-15,Kuala Lumpur,Kuala Lumpur,Subdivision,Residential,Hilly,6.86,314.0,23.5,3.1,6,8.5,2579.08,Passed
+LS0951,2024-11-13,Johor,Johor Bahru,Topographic,Forest,Coastal,36.21,35.5,7.2,1.9,15,19.2,6138.06,Passed
+LS0952,2025-12-15,Sarawak,Miri,Topographic,Agricultural,Coastal,14.2,31.0,2.1,1.6,12,9.1,3071.87,Passed
+LS0953,2025-01-29,Kedah,Kota Setar,Engineering,Infrastructure,Flat,35.18,2.8,2.5,4.7,14,14.7,5268.95,Passed
+LS0954,2024-10-02,Perak,Kinta,Construction Setting Out,Agricultural,Urban,61.72,28.7,3.0,2.3,28,27.1,9088.99,Passed
+LS0955,2025-07-31,Perak,Manjung,Construction Setting Out,Agricultural,Flat,3.96,79.0,5.3,1.6,8,7.4,2210.52,Passed
+LS0956,2026-07-24,Penang,Barat Daya,Cadastral,Forest,Rolling,34.74,98.0,11.4,3.0,18,19.3,5935.66,Passed
+LS0957,2024-09-06,Kedah,Kulim,As-Built,Commercial,Flat,9.06,63.1,0,3.5,18,11.3,3526.45,Passed
+LS0958,2024-10-02,Sabah,Sandakan,Construction Setting Out,Forest,Hilly,38.71,330.1,31.7,3.8,25,21.1,6789.68,Review Required
+LS0959,2026-02-08,Sarawak,Kuching,Topographic,Infrastructure,Hilly,16.64,354.8,23.7,6.0,22,14.0,4671.85,Review Required
+LS0960,2024-07-24,Johor,Johor Bahru,Cadastral,Residential,Hilly,3.81,247.4,25.5,4.9,9,9.7,2795.96,Review Required
+LS0961,2024-04-12,Kedah,Kulim,Topographic,Commercial,Rolling,10.31,131.8,5.6,1.4,16,8.2,2815.75,Passed
+LS0962,2024-05-16,Sarawak,Miri,Construction Setting Out,Forest,Hilly,36.37,315.9,22.8,7.1,21,18.9,6291.26,Review Required
+LS0963,2026-02-25,Sabah,Kota Kinabalu,Subdivision,Forest,Urban,83.03,30.3,1.0,2.4,15,29.0,9865.67,Passed
+LS0964,2024-11-05,Sabah,Penampang,As-Built,Residential,Rolling,7.39,32.4,10.1,3.8,9,9.2,2608.08,Passed
+LS0965,2024-07-02,Selangor,Petaling,Subdivision,Commercial,Rolling,5.19,143.8,9.4,4.6,5,6.6,2270.99,Passed
+LS0966,2024-11-22,Sarawak,Kuching,Cadastral,Industrial,Hilly,76.79,356.8,22.2,5.8,26,34.4,10716.07,Review Required
+LS0967,2025-09-10,Sarawak,Miri,Cadastral,Industrial,Hilly,62.46,277.8,23.5,3.0,25,27.6,9072.97,Passed
+LS0968,2025-11-21,Sabah,Kota Kinabalu,Subdivision,Agricultural,Coastal,80.35,5.0,4.4,1.6,28,32.4,10708.09,Passed
+LS0969,2024-05-04,Johor,Batu Pahat,Subdivision,Infrastructure,Flat,25.24,40.5,0,4.9,20,12.7,4452.27,Passed
+LS0970,2024-12-31,Kuala Lumpur,Kuala Lumpur,As-Built,Forest,Rolling,35.71,133.6,6.0,4.4,9,16.9,5275.81,Passed
+LS0971,2024-04-06,Penang,Timur Laut,Engineering,Forest,Rolling,4.35,146.7,13.7,3.3,16,8.7,2627.82,Passed
+LS0972,2024-11-30,Johor,Batu Pahat,Construction Setting Out,Agricultural,Hilly,33.47,322.6,21.0,7.1,24,20.6,6291.0,Review Required
+LS0973,2025-03-08,Penang,Barat Daya,Subdivision,Forest,Flat,77.37,69.9,4.9,4.2,25,33.1,10762.75,Passed
+LS0974,2024-11-06,Penang,Seberang Perai Tengah,Subdivision,Agricultural,Flat,68.83,30.8,1.9,5.1,16,28.2,9138.22,Review Required
+LS0975,2025-09-11,Perak,Manjung,Cadastral,Agricultural,Hilly,54.89,390.0,26.5,4.0,16,24.4,7889.96,Review Required
+LS0976,2025-10-12,Johor,Batu Pahat,Engineering,Residential,Hilly,4.98,314.2,28.1,3.3,12,10.8,3197.26,Passed
+LS0977,2024-12-02,Selangor,Klang,Cadastral,Forest,Flat,31.51,56.2,4.3,4.1,22,18.0,5901.33,Passed
+LS0978,2025-11-20,Sarawak,Miri,As-Built,Residential,Rolling,4.21,169.0,7.6,1.4,19,8.3,2889.41,Passed
+LS0979,2024-11-07,Kedah,Kulim,Subdivision,Infrastructure,Rolling,91.97,77.0,7.4,2.4,23,36.2,11797.58,Passed
+LS0980,2026-09-23,Sabah,Penampang,Construction Setting Out,Residential,Rolling,2.0,85.1,6.4,3.4,17,11.1,2980.86,Passed
+LS0981,2024-10-23,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Infrastructure,Urban,13.38,12.5,0,1.2,11,8.7,2857.71,Passed
+LS0982,2024-04-18,Johor,Kulai,Subdivision,Industrial,Coastal,52.71,27.7,1.7,5.0,19,21.8,7290.09,Passed
+LS0983,2025-02-13,Sabah,Penampang,As-Built,Industrial,Rolling,22.16,143.4,5.8,2.1,21,13.2,4684.06,Passed
+LS0984,2025-10-13,Penang,Timur Laut,Engineering,Industrial,Rolling,62.68,95.5,9.4,3.5,25,29.7,9381.18,Passed
+LS0985,2025-10-02,Perak,Manjung,As-Built,Infrastructure,Flat,94.9,11.7,0,5.2,27,36.2,11903.38,Review Required
+LS0986,2025-01-12,Selangor,Klang,Cadastral,Forest,Urban,57.53,21.3,4.7,3.2,18,25.9,8138.31,Passed
+LS0987,2025-03-30,Perak,Kinta,Subdivision,Commercial,Flat,3.97,116.5,0.3,1.7,18,8.5,2878.71,Passed
+LS0988,2024-03-12,Johor,Johor Bahru,As-Built,Forest,Urban,11.45,35.9,1.9,5.1,10,8.3,2915.22,Review Required
+LS0989,2026-01-02,Penang,Seberang Perai Tengah,Construction Setting Out,Infrastructure,Hilly,94.58,299.8,25.7,4.7,25,40.0,12677.3,Review Required
+LS0990,2025-10-06,Penang,Seberang Perai Tengah,Subdivision,Residential,Rolling,3.62,148.8,5.5,4.4,15,8.2,2810.0,Passed
+LS0991,2025-11-03,Kuala Lumpur,Kuala Lumpur,Cadastral,Residential,Rolling,1.88,175.2,9.6,4.3,7,8.4,2293.55,Passed
+LS0992,2024-12-16,Johor,Batu Pahat,Construction Setting Out,Commercial,Urban,3.28,102.2,1.8,2.9,19,10.1,3207.05,Passed
+LS0993,2025-01-14,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Forest,Rolling,25.24,119.3,9.9,1.4,23,15.5,5041.99,Passed
+LS0994,2024-05-30,Kedah,Langkawi,Subdivision,Commercial,Rolling,6.88,162.1,8.4,3.9,8,9.9,2944.49,Passed
+LS0995,2026-02-02,Kedah,Langkawi,Engineering,Forest,Urban,22.42,17.7,6.4,1.4,7,11.5,3871.6,Passed
+LS0996,2024-06-22,Sarawak,Sibu,Topographic,Agricultural,Rolling,61.52,88.5,7.0,3.2,24,28.4,9089.94,Passed
+LS0997,2026-03-19,Kuala Lumpur,Kuala Lumpur,Construction Setting Out,Residential,Flat,8.07,54.9,4.0,1.7,9,7.6,2634.15,Passed
+LS0998,2025-01-07,Perak,Larut Matang,Construction Setting Out,Infrastructure,Rolling,86.79,72.8,14.8,4.8,32,37.9,12267.23,Passed
+LS0999,2025-08-03,Penang,Seberang Perai Tengah,Cadastral,Agricultural,Rolling,48.7,198.6,9.0,4.8,12,23.5,7089.29,Passed
+LS1000,2024-09-29,Perak,Larut Matang,Subdivision,Commercial,Flat,8.32,23.7,0.7,4.0,19,8.5,3211.69,Passed
